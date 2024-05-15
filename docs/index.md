@@ -1,17 +1,18 @@
-# Welcome to MkDocs
+# A Short & Online Principles of Macroeconomics
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This online textbook has three parts. Part 1 covers some introductory concepts, opportunity cost, the production possibilities frontier, and trade. Part 2 covers gross domestic product, unemployment, and inflation. And in part 3 we examine the aggregate demand - aggreate supply (AD-AS) model, fiscal policy, money, and monetary policy. 
 
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+!!! warning "Use light mode"
 
-## Project layout
+    Currently, this website is only designed to work in light mode. It will function in dark mode, but some of the features---especially tables and captions---do not have dark mode formatting, and so can only be viewed in light mode.
+	
+	If you find yourself in dark mode, you can get to light mode by selecting the icon next to the search field.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+
+---
+
+This is a revised version of the [OpenStax Principles of Macroeconomics](https://openstax.org/details/books/principles-macroeconomics-3e). This version, like the original, is licensed under a [Creative Commons attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). The source files are [here](https://github.com/loighic/loighic.github.io/tree/main/_pages/macro).
+
+&copy; 2024 [Gregory Scott Johnson](https://loighic.net/).
+

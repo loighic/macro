@@ -1,10 +1,13 @@
-site_name: principles of macroeconomics
+site_name: PRINCIPLES OF MACROECONOMICS
 theme:
   name: material
+  font:
+    text: Proza Libre
   features:
-    - navigation.tabs
+    - navigation.tracking
     - navigation.sections
-    - toc.integrate
+#    - toc.integrate
+    - navigation.tabs
     - navigation.top
     - search.suggest
     - search.highlight
@@ -13,18 +16,20 @@ theme:
     - content.code.copy
   language: en
   palette:
+      # Palette toggle for light mode
     - scheme: default
       toggle:
-        icon: material/toggle-switch-off-outline 
+        icon: material/brightness-7 
         name: Switch to dark mode
-      primary: teal
-      accent: purple 
-    - scheme: slate 
+      primary: indigo
+      accent: deep orange
+    # Palette toggle for dark mode
+    - scheme: default
       toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode    
-      primary: teal
-      accent: lime
+        icon: material/brightness-5
+        name: Switch to light mode
+      primary: indigo
+      accent: deep orange
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -39,6 +44,49 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.mark
   - attr_list
+  - md_in_html
+  - smarty
+
+extra_css:
+  - stylesheets/table.css
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+nav:
+  - HOME: index.md
+  - 'PART 1':
+    - 'Some Economic Concepts': pt1a/intro1.md
+    - 'Important economic ideas': pt1a/intro2.md
+    - 'Choice and the budget constraint': pt1a/constraint.md
+    - 'The production possibilities frontier': pt1a/ppf.md
+    - 'Comparative advantage': pt1a/advantage.md
+    - 'International trade': pt1a/trade.md
+    - 'Demand': pt1b/demand.md
+    - 'Supply': pt1b/supply.md
+    - 'The supply and demand model': pt1b/sup_and_dem.md
+  - 'PART 2':
+    - 'Gross Domestic Product, 1': pt2/gdp_1.md
+    - 'Gross Domestic Product, 2': pt2/GDP_2.md
+    - 'Unemployment': pt2/unemployment_1.md
+    - 'Categories of unemployment': pt2/unemployment_2.md
+    - 'Calculating inflation': pt2/inflation_1.md
+    - 'Living with inflation': pt2/inflation_2.md
+  - 'PART 3':
+    - 'Aggregate demand': pt3a/AD.md
+    - 'Aggregate supply': pt3a/AS.md
+    - 'The AD-AS model': pt3a/AD_AS.md
+    - 'Changes to AD and AS': pt3a/AD_AS_shifts.md
+    - 'AD-AS, recessions, and fiscal policy': pt3a/fiscal_1.md
+    - 'Fiscal policy: Automatic stabilizers and the Phillips curve': pt3a/fiscal_2.md
+    - 'Money and banking': pt3b/money_1.md
+    - 'Bank runs and the Federal Reserve': pt3b/money_2)
+    - 'Monetary policy 1: Changing the reserve requirement': pt3b/fed_1)
+    - 'Monetary policy 2: Open market operations': pt3b/fed_2)
+
 
 
 copyright: |
