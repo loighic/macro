@@ -79,13 +79,13 @@ nav:
     - 'Aggregate demand': pt3a/AD.md
     - 'Aggregate supply': pt3a/AS.md
     - 'The AD-AS model': pt3a/AD_AS.md
-    - 'Changes to AD and AS': pt3a/AD_AS_shifts.md
+    - 'Changes to AD and AS': pt3a/AD-AS_shifts.md
     - 'AD-AS, recessions, and fiscal policy': pt3a/fiscal_1.md
     - 'Fiscal policy: Automatic stabilizers and the Phillips curve': pt3a/fiscal_2.md
     - 'Money and banking': pt3b/money_1.md
-    - 'Bank runs and the Federal Reserve': pt3b/money_2)
-    - 'Monetary policy 1: Changing the reserve requirement': pt3b/fed_1)
-    - 'Monetary policy 2: Open market operations': pt3b/fed_2)
+    - 'Bank runs and the Federal Reserve': pt3b/money_2.md
+    - 'Monetary policy 1: Changing the reserve requirement': pt3b/fed_1.md
+    - 'Monetary policy 2: Open market operations': pt3b/fed_2.md
 
 
 
