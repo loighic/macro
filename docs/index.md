@@ -1,5 +1,10 @@
 # A Short & Online Principles of Macroeconomics
 
+!!! question "Site migration"
+
+    This site is currently (and maybe fore a while) being moved from [here](https://loighic.net/macrox/). So, not every page is complete. Most of the paths for the images need to be fixed and there is other formatting that needs to be changed.
+
+
 This online textbook has three parts. Part 1 covers some introductory concepts, opportunity cost, the production possibilities frontier, and trade. Part 2 covers gross domestic product, unemployment, and inflation. And in part 3 we examine the aggregate demand - aggreate supply (AD-AS) model, fiscal policy, money, and monetary policy. 
 
 
