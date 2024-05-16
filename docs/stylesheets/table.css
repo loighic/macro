@@ -20,6 +20,16 @@
 }
 	
 
+/* media query for mobile devices*/ 
+    @media screen and (max-width:800px) {
+	.caption {
+		width: 100%;
+	}
+	.caption2 {
+		width: 100%;
+	}
+}
+	
 
 /* This is the main style for the table. */
 .styled-table {
