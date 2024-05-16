@@ -9,6 +9,8 @@
   margin-bottom: 1.5rem;
 }
 
+
+/* For captions that consist of only "Figure 1" or "Table 1," etc. */
 .caption2 {
   background-color: #ededed;
   margin: 0px;
@@ -20,7 +22,7 @@
 }
 	
 
-/* media query for mobile devices*/ 
+/* media query for mobile devices */ 
     @media screen and (max-width:800px) {
 	.caption {
 		width: 100%;
