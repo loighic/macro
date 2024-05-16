@@ -57,7 +57,7 @@ extra_javascript:
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
 nav:
-  - HOME: index.md
+  - 'HOME': index.md
   - 'PART 1':
     - 'Some Economic Concepts': pt1a/intro1.md
     - 'Important economic ideas': pt1a/intro2.md
@@ -87,7 +87,5 @@ nav:
     - 'Monetary policy 1: Changing the reserve requirement': pt3b/fed_1.md
     - 'Monetary policy 2: Open market operations': pt3b/fed_2.md
 
-
-
 copyright: |
-  &copy; 2024 <a href="https://github.com/loighic"  target="_blank" rel="noopener">Gregory Scott Johnson</a>
+  &copy; 2024 <a href="https://loighic.net/"  target="_blank" rel="noopener">Gregory Scott Johnson</a>
