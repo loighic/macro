@@ -20,21 +20,19 @@
 
 
 
-
-/* adding the drop shadow,margin and keeping the images at 50 viewport width */
  img {
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
 /*	margin-left: 1rem; */
 }
 
 
-/* media query for mobile devices*/ 
+/* media query for mobile devices */ 
  @media screen and (max-width:800px) {
  img {
     width:100%;
 	}
 }
-	
+
  
 blockquote {
   color: #e33e00;
