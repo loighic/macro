@@ -1,13 +1,6 @@
 ---
-layout: page
-permalink: /macro/ppf/
 title: The Production possibilities frontier
-nav: false
 ---
-
-<link rel="stylesheet" href="/assets/css/table.css">
-
-[<small>HOME</small>](/macro/)
 
 
 Just as individuals cannot have everything they want and must make choices, society as a whole cannot have everything that it wants either. This section will explain the constraints society faces using a model called the production possibilities frontier (or PPF).
@@ -15,16 +8,9 @@ Just as individuals cannot have everything they want and must make choices, soci
 Because society has limited resources (i.e., labor, land, capital, and entrepreneurship) at any point in time, there is a limit to the quantities of goods and services that it can produce. Suppose society desires two products, healthcare and education. Using all of its resources (responsibly---it's not destroying the environment, using child labor, and so forth), the various combinations of these two goods that society can have are shown in figure 1.
 
 
-<div class="container">
-<div class="row">
-	<div class="col-8">
-		{% responsive_image path: assets/img/macro_fig/1_choice/PPF-1b.jpg class: "img-fluid rounded z-depth-1" %}
-	</div>
-</div>
+![figure](1_choice_img/PPF-1b.jpg){width="70%"}
 <div class="caption"><div align="left">
-<strong>Figure 1: A healthcare and education production possibilities frontier</strong>  This production possibilities frontier shows the trade-off between devoting society's resources to healthcare and devoting them to education. (Note that by <em>frontier</em> we mean the line, which is at the edge&mdash;or frontier&mdash;of what this society can produce.)</div>
-</div>
-</div>
+<strong>Figure 1: A healthcare and education production possibilities frontier</strong>  This production possibilities frontier shows the trade-off between devoting society's resources to healthcare and devoting them to education. (Note that by <em>frontier</em> we mean the line, which is at the edge&mdash;or frontier&mdash;of what this society can produce.)</div></div>
 
 
 In figure 1, healthcare is on the vertical axis and education is on the horizontal axis. If society allocates all of its resources to healthcare, it will achieve point A. This means, however, that it will not produce any education. Alternatively, if it allocates all of its resources to education, it will be at point F. Somewhat more sensibly, perhaps, society can also choose to produce any combination on the PPF that will give it both some healthcare and some education.
@@ -36,22 +22,17 @@ Most importantly, the production possibilities frontier shows the trade-off betw
 Let's say that society is thinking about shifting from point B to point C. If you study figure 1, you will see that a move from B to C entails an increase in education but a loss of healthcare. (Follow point B to the vertical and horizontal axes, and then do the same for point C.) What is the opportunity cost of the education that society will gain when it shifts from B to C? The opportunity cost is the healthcare it will have to give up. Just as with Sam's budget constraint, the slope of the production possibilities frontier shows the opportunity costs of every possible choice.
 
 
-##### The PPF and the law of increasing opportunity cost
+## The law of increasing opportunity cost
 
 A budget constraint, which shows an individual's options when selecting a combination of goods, is a straight line. This is because the slope of the line is determined by the relative prices of the two goods. No matter what combination of pizzas and burritos Sam consumes in a week, one pizza will always cost as much as two burritos. Hence, his budget constraint is a straight line with a slope of -2. The production possibilities frontier for healthcare and education in figure 1 is, however, a curved line (or, more specifically, it is concave).
 
 To understand why the PPF is curved, we must start by making an important point: not every unit of resources (or every unit of money, let's use \$1,000,000 as our units) that is spent on producing a product---say, healthcare ore education---yields the same benefit. The first \$1,000,000 spent on healthcare, for instance, will purchase the services of the best physicians who specialize in the most critical areas of healthcare, and they can be located where they are most needed. If society devotes all its resources to healthcare, however, the last \$1,000,000 will be spent workers who aren't well suited to working in healthcare and on services that aren't very important for the health of members of society.
 
-<div class="container">
-<div class="row">
-	<div class="col-8">
-		{% responsive_image path: assets/img/macro_fig/1_choice/PPF-1.png class: "img-fluid rounded z-depth-1" %}
-	</div>
-</div>
+
+![figure](1_choice_img/PPF-1.png){width="70%"}
 <div class="caption"><div align="left">
-<strong>Figure 2: A healthcare and education production possibilities frontier</strong></div>
-</div>
-</div>
+<strong>Figure 2</strong>&nbsp;&nbsp;A healthcare and education production possibilities frontier</div></div>
+
 
 Consider point A in figure 2. At point A, all available resources are devoted to healthcare and none are left for education. This situation would be extreme and even ridiculous. (Children could be checked by doctors every day but wouldn't be attending school. People could have all of the surgeries that they want, but there would be no high school or college education.) But let's say that society is at point A and then decides to shift some of its resources from healthcare to education so that it will be at point B.
 
@@ -70,25 +51,22 @@ Of course, even if it was possible, society is not likely to choose to devote al
 This pattern reflects the **law of increasing opportunity cost**: as the production of a good or service increases, the marginal opportunity cost of producing it (i.e., the cost of producing an additional unit) increases as well. This happens because some resources are better suited for producing certain goods and services instead of others, which in turn, is why the PPF has the shape that it does.
 
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GKkQogJr9oQ?si=jE2QZohCrv5E0LsC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GKkQogJr9oQ?si=jE2QZohCrv5E0LsC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="caption2"><div align="left">
+<strong>Video 1</strong></div></div>
 
 
-##### Efficiency: Productive and allocative
+
+## Productive and allocative efficiency
 
 In a market-oriented economy with a democratic government, the choice of a point on a production possibilities frontier will involve a mixture of decisions by individuals, firms, and government. Economics, however, can show us that some choices are definitely better than others. This is based on the concept of **efficiency**. In everyday usage, efficiency refers to a lack of waste. The economic meaning is similar. In different contexts, it can be used in slightly different ways, but often it refers to a state where it is impossible to make one party (person, firm, country) better off without making another party worse off. So, a situation is inefficient when it is possible to make one party better off without making anyone else worse off.
 
 The production possibilities frontier is used to investigate two specific kinds of efficiency: productive efficiency and allocative efficiency.
 
 
-<div class="container">
-<div class="row">
-	<div class="col-9">
-		{% responsive_image path: assets/img/macro_fig/1_choice/PPF-2.jpg class: "img-fluid rounded z-depth-1" %}
-	</div>
-</div>
-<div class="caption"><div align="left">
+![image](1_choice_img/PPF-2.jpg){width="70%"}
+<div class="caption2"><div align="left">
 <strong>Figure 2</strong></div>
-</div>
 </div>
 
 
@@ -98,7 +76,8 @@ A combination that is inside the production possibilities frontier is productive
 
 **Allocative efficiency** is achieved when the combination being produced is the combination that society most desires.
 
-##### Why society must choose
+
+## Why society must choose
 
 Every society faces the problem of scarcity. Limited resources will always conflict with unlimited needs and wants. But there are two situations that allow societies to expand the consumption of all goods. First, if a society discovers that it has not achieved productive efficiency, it can shift production of some or all goods to the production possibilities frontier. This will provide it with more of some or all goods.
 
