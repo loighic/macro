@@ -1,13 +1,6 @@
 ---
-layout: page
-permalink: /macro/trade/
 title: International trade
-nav: false
 ---
-
-<link rel="stylesheet" href="/assets/css/table.css">
-
-[<small>HOME</small>](/macro/)
 
 The first wave of globalization started in the nineteenth century and
 lasted up to the beginning of World War I. Over that time, global
@@ -15,19 +8,10 @@ exports as a share of global gross domestic product (GDP) rose from less
 than 1% of GDP in 1820 to 9% of GDP in 1913. As the Nobel Prize-winning
 economist Paul Krugman of Princeton University wrote in 1995:
 
-> It is a late-twentieth-century conceit that we invented the global
-> economy just yesterday. In fact, world markets achieved an impressive
-> degree of integration during the second half of the nineteenth
-> century. Indeed, if one wants a specific date for the beginning of a
-> truly global economy, one might well choose 1869, the year in which
-> both the Suez Canal and the Union Pacific railroad were completed. By
-> the eve of the First World War steamships and railroads had created
-> markets for standardized commodities, like wheat and wool, that were
-> fully global in their reach. Even the global flow of information was
-> better than modern observers, focused on electronic technology, tend
-> to realize: the first submarine telegraph cable was laid under the
-> Atlantic in 1858, and by 1900 all of the world's major economic
-> regions could effectively communicate instantaneously.
+!!! note ""
+
+    It is a late-twentieth-century conceit that we invented the global economy just yesterday. In fact, world markets achieved an impressive degree of integration during the second half of the nineteenth century. Indeed, if one wants a specific date for the beginning of a truly global economy, one might well choose 1869, the year in which both the Suez Canal and the Union Pacific railroad were completed. By the eve of the First World War steamships and railroads had created markets for standardized commodities, like wheat and wool, that were fully global in their reach. Even the global flow of information was better than modern observers, focused on electronic technology, tend to realize: the first submarine telegraph cable was laid under the Atlantic in 1858, and by 1900 all of the world's major economic regions could effectively communicate instantaneously.
+
 
 This first wave of globalization crashed to a halt early in the
 twentieth century. World War I severed many economic connections. During
