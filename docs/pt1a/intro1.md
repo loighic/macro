@@ -55,8 +55,7 @@ To help understand the economy, economists often create models. A model is a sim
 
 ![The circular flow diagram](0_intro_img/circle_model.jpg){width="60%"}
 <div class="caption"><div align="left">
-<strong>Figure 1: The Circular Flow Diagram</strong> The circular flow diagram shows how households and firms interact in the (1) goods and services market and (2) labor market. The direction of the arrows indicate that, in the goods and services market, households receive goods & services and pay firms for them (arrows A and B). Meanwhile, in the labor market, households provide labor and receive payment from firms through wages, salaries, and benefits (arrows C and D).</div>
-</div>
+<strong>Figure 1: The Circular Flow Diagram</strong> The circular flow diagram shows how households and firms interact in the (1) goods and services market and (2) labor market. The direction of the arrows indicate that, in the goods and services market, households receive goods & services and pay firms for them (arrows A and B). Meanwhile, in the labor market, households provide labor and receive payment from firms through wages, salaries, and benefits (arrows C and D).</div></div>
 
 
 In actuality, there are many different markets for goods and services, and markets for many different types of labor. The circular flow diagram simplifies this to make the description of the economy easier to grasp. Nonetheless, this model has enough features to illustrate how production and labor interact. And we can [add details](https://www.rba.gov.au/education/resources/illustrators/pdf/circular-flow-model.pdf) to this basic model if we want to introduce more real-world elements, such as financial markets, governments, or trade with other countries.

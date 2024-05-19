@@ -29,7 +29,7 @@ A budget constraint, which shows an individual's options when selecting a combin
 To understand why the PPF is curved, we must start by making an important point: not every unit of resources (or every unit of money, let's use \$1,000,000 as our units) that is spent on producing a product---say, healthcare ore education---yields the same benefit. The first \$1,000,000 spent on healthcare, for instance, will purchase the services of the best physicians who specialize in the most critical areas of healthcare, and they can be located where they are most needed. If society devotes all its resources to healthcare, however, the last \$1,000,000 will be spent workers who aren't well suited to working in healthcare and on services that aren't very important for the health of members of society.
 
 
-![figure](1_choice_img/PPF-1.png){width="70%"}
+![figure](1_choice_img/PPF-1.png){width="62%"}
 <div class="caption"><div align="left">
 <strong>Figure 2</strong>&nbsp;&nbsp;A healthcare and education production possibilities frontier</div></div>
 

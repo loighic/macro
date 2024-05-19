@@ -30,6 +30,8 @@ theme:
         name: Switch to light mode
       primary: indigo
       accent: deep orange
+  icon:
+    annotation: material/arrow-right-thick
 
 markdown_extensions:
   - pymdownx.highlight:
