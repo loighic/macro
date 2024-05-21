@@ -169,7 +169,7 @@ produce with its 100 labor hours are listed in table 2.
 As you may recall from the [production possibilities frontier](/macro/pt1a/ppf/) page, the **PPF** is the curve that represents all of the possible combinations of two goods that a country can produce, given its limited resources. The PPFs for Saudi Arabia and the United States are given in figure 1.<sup>(1)</sup>
 { .annotate }
 
-1.    Recall that, when explaining the [production possibilities frontier](/macro/ppf/) earlier, we said that we typically expect a PPF to be convex. This is because, as resources are moved toward the production of one good and away from the production of the other, the resulting increases and decreases in production are not proportional, especially if a country gets close to using almost all of its resources to produce one of the two goods.
+1.    Earlier, we said that we typically expect a PPF to be convex. This is because, as resources are moved toward the production of one good and away from the production of the other, the resulting increases and decreases in production are not proportional, especially if a country gets close to using almost all of its resources to produce one of the two goods.
  
     The PPFs that we will examine on this page will be straight lines, however. This is not realistic---it assumes that all resources are perfectly interchangeable---but it will make the analysis here much simpler without affecting our application of the concepts *absolute* and *comparative advantage*.
 
