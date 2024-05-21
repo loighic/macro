@@ -159,13 +159,14 @@ produce with its 100 labor hours are listed in table 2.
 			<td>100</td>
         </tr>
     </tbody>
-    <caption>
-<strong>Table 2</strong>
-    </caption>
 </table>
+<div class="caption2"><div align="left">
+<strong>Table 2</strong>
+</div></div>
 
 
-As you may recall from the [production possibilities frontier](/macro/ppf/) page, the **PPF** is the curve that represents all of the possible combinations of two goods that a country can produce, given its limited resources. The PPFs for Saudi Arabia and the United States are given in figure 1.<sup>(1)</sup> 
+
+As you may recall from the [production possibilities frontier](/macro/pt1a/ppf/) page, the **PPF** is the curve that represents all of the possible combinations of two goods that a country can produce, given its limited resources. The PPFs for Saudi Arabia and the United States are given in figure 1.<sup>(1)</sup>
 { .annotate }
 
 1.    Recall that, when explaining the [production possibilities frontier](/macro/ppf/) earlier, we said that we typically expect a PPF to be convex. This is because, as resources are moved toward the production of one good and away from the production of the other, the resulting increases and decreases in production are not proportional, especially if a country gets close to using almost all of its resources to produce one of the two goods.
@@ -341,26 +342,21 @@ result because it shows that trading can make *both* countries better off.
 	<td>✓</td>
 </tr>
 </tbody>
-<caption>
-<strong>Table 4</strong> Before trading, each country has (and
-consumes) what it produces. After trading 20 barrels of oil for 20
-bushels of corn, they each have (and can consume) what is on the
-right.
-</caption>
 </table>
-
-
-
-<div class="container">
-<div class="row">
-	<div class="col-8">
-		{% responsive_image path: assets/img/macro_fig/1_choice/Saudi-PPF.jpg class: "img-fluid rounded z-depth-1" %}
-	</div>
-</div>
 <div class="caption"><div align="left">
-<strong>Figure 2</strong> Saudi Arabia's production possibilities frontier. Prior to trading, Saudi Arabia was at point C (10 bushels of corn and 60 barrels of oil). After trading, they are at point D (30 bushels of corn and 40 barrels of oil). 
+<strong>Table 4</strong>&nbsp;&nbsp;&nbsp;Before trading, each country has (and consumes) what it produces. After trading 20 barrels of oil for 20 bushels of corn, they each have (and can consume) what is on the right.
 </div></div>
-</div>
+
+<caption>
+<strong>Table 4</strong> 
+</caption>
+
+
+
+![figure](1_choice_img/Saudi-PPF.jpg){width="70%"}
+<div class="caption"><div align="left">
+<strong>Figure 2</strong>&nbsp;&nbsp;&nbsp;Saudi Arabia's production possibilities frontier. Prior to trading, Saudi Arabia was at point C (10 bushels of corn and 60 barrels of oil). After trading, they are at point D (30 bushels of corn and 40 barrels of oil). 
+</div></div>
 
 
 ## Specializing
@@ -415,13 +411,11 @@ barrels of oil for 50 bushels of corn.
 	<td>✓</td>
 </tr>
 </tbody>
-<caption>
-<strong>Table 5</strong> Before trading, each country is producing only the good
-for which it has a comparative advantage (and, in this example, an
-absolute advantage). After trading 40 barrels of oil for 50 bushels of
-corn, they each have (and can consume) what is on the right.
-</caption>
 </table>
+<div class="caption"><div align="left">
+<strong>Table 5</strong>&nbsp;&nbsp;&nbsp;Before trading, each country is producing only the good for which it has a comparative advantage (and, in this example, an absolute advantage). After trading 40 barrels of oil for 50 bushels of corn, they each have (and can consume) what is on the right.
+</div></div>
+
 
 
 Again, we see that, after the trade, both countries have a combination
@@ -528,19 +522,15 @@ advantage in both.
 			<td>(40) 10,000</td>
 		</tr>
     </tbody>
-    <caption>
-<strong>Table 6</strong>
-    </caption>
 </table>
+<div class="caption2"><div align="left">
+<strong>Table 6</strong>
+</div></div>
 
 
-<div class="container">
-<div class="row">
-	<div class="col-12">
-		{% responsive_image path: assets/img/macro_fig/1_choice/jackets-pants.png class: "img-fluid rounded z-depth-1" %}
-	</div>
-</div>
-<div class="caption">
+
+![figure](1_choice_img/jackets-pants.png){width="100%"}
+<div class="caption2"><div align="left">
 <strong>Figure 3</strong>
 </div>
 </div>
@@ -576,14 +566,10 @@ These and Brazil's opportunity costs are given in table 7.
 <td>.80 jacket</td>
 </tr>
 </tbody>
-<caption>
-<strong>Table 7</strong> The lower opportunity costs are in bold.
-Hence, Brazil has a comparative advantage producing jackets. (It can do
-so for a lower cost: 1.25 vs. 4 pants.) And Italy has a comparative
-advantage producing pants. (It can do so for a lower cost: .25 vs .80
-pants.)
-</caption>
 </table>
+<div class="caption"><div align="left">
+<strong>Table 7</strong>&nbsp;&nbsp;&nbsp;The lower opportunity costs are in bold. Hence, Brazil has a comparative advantage producing jackets. (It can do so for a lower cost: 1.25 vs. 4 pants.) And Italy has a comparative advantage producing pants. (It can do so for a lower cost: .25 vs .80 pants.)
+</div></div>
 
 
 The cost of producing 1 jacket is much higher for Italy (4 pants) than it is for Brazil (1.25 pants). Therefore, Brazil has a comparative advantage in jacket production. Italy, however, has a comparative advantage in pants production. It only gives up ¼ jacket for every pair of pants that produces. Brazil, meanwhile, gives up 4/5 jacket every time that it produces a pair of pants. 
@@ -656,10 +642,10 @@ frontier.
 		<td>✓</td>
 	</tr>
 </tbody>
-<caption>
-<strong>Table 8</strong>
-</caption>
 </table>
+<div class="caption2"><div align="left">
+<strong>Table 8</strong>
+</div></div>
 
 
 So, again (and even though Italy has an absolute advantage in the
