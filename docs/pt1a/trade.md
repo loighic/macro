@@ -89,7 +89,7 @@ hour.
     </tbody>
 </table>
 <div class="caption"><div align="left">
-<strong>Table 1</strong>&nbsp;&nbsp;The number of hours that it takes each country to produce oil and corn.
+<strong>Table 1</strong>&nbsp;&nbsp;&nbsp;The number of hours that it takes each country to produce oil and corn.
 </div></div>
 
 Saudi Arabia has an absolute advantage in oil production. While it takes
@@ -177,7 +177,7 @@ As you may recall from the [production possibilities frontier](/macro/pt1a/ppf/)
 
 ![figure](1_choice_img/oil-corn.jpg){width="100%"}
 <div class="caption"><div align="left">
-<strong>Figure 1</strong> The production possibilities frontiers for Saudi Arabia (left) and the United States (right).
+<strong>Figure 1</strong>&nbsp;&nbsp;&nbsp;The production possibilities frontiers for Saudi Arabia (left) and the United States (right).
 </div></div>
 
 If it produces only oil, then Saudi Arabia can produce 100
@@ -254,7 +254,7 @@ the United States are listed in table 3.
 </tbody>
 </table>
 <div class="caption"><div align="left">
-<strong>Table 3</strong>&nbsp;&nbsp;Saudi Arabia has a comparative advantage producing oil. It can produce oil at a lower cost: .25 vs. 2 bushels of corn. The United States, meanwhile, has a comparative advantage producing corn. It can produce corn for a lower cost: .50 vs 4 barrels of oil.
+<strong>Table 3</strong>&nbsp;&nbsp;&nbsp;Saudi Arabia has a comparative advantage producing oil. It can produce oil at a lower cost: .25 vs. 2 bushels of corn. The United States, meanwhile, has a comparative advantage producing corn. It can produce corn for a lower cost: .50 vs 4 barrels of oil.
 </div></div>
 
 
@@ -429,6 +429,9 @@ on their production possibilities frontier.
 
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8b2izT9tCKw?si=QFHBoHg4EYUCaw9d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<div class="caption2"><div align="left">
+<strong>Videos 1 & 2</strong>
+</div></div>
 
 
 ## When a country has an absolute advantage in all goods
