@@ -347,10 +347,6 @@ result because it shows that trading can make *both* countries better off.
 <strong>Table 4</strong>&nbsp;&nbsp;&nbsp;Before trading, each country has (and consumes) what it produces. After trading 20 barrels of oil for 20 bushels of corn, they each have (and can consume) what is on the right.
 </div></div>
 
-<caption>
-<strong>Table 4</strong> 
-</caption>
-
 
 
 ![figure](1_choice_img/Saudi-PPF.jpg){width="70%"}
