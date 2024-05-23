@@ -66,8 +66,11 @@ As is stated in the definition, demand can be represented in a schedule (i.e., a
 <td>420</td>
 </tr>
 </tbody>
-<caption><strong>Table 1</strong>&nbsp;&nbsp;The demand schedule for gasoline lists the possible prices and quantity demanded at each price&mdash;in this case, per week for a medium sized country.</caption>
 </table>
+
+<div class="caption"><div align="left">
+<strong>Table 1</strong>&nbsp;&nbsp;&nbsp;The demand schedule for gasoline lists the possible prices and quantity demanded at each price&mdash;in this case, per week for a medium sized country.
+</div></div>
 
 
 
@@ -85,18 +88,25 @@ The same information can also be represented by a demand curve in a graph. Such 
 Demand curves will appear somewhat different for each good and service. They may be relatively steep or flat, and they may be straight or curved. But nearly all demand curves have the downward slope that reflects the law of demand: as the price increases, the quantity demanded decreases, and conversely, as the price decreases, the quantity demanded increases.
 
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7czP-DA58s4?si=A7fZmWcgwhIxoed8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7czP-DA58s4?si=A7fZmWcgwhIxoed8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="caption2"><div align="left">
+<strong>Video 1</strong>
+</div></div>
 
 
 ## 'Demand' versus 'quantity demanded'
 
 *Demand* is not the same as *quantity demanded*. *Demand* is relationship between a range of prices and the quantities demanded at those prices. Thus, *demand* is represented by the (whole) demand curve or demand schedule. *Quantity demanded*, on the other hand, is a specific amount on the demand curve or in the demand schedule. It is the amount that will be demanded at a particular price.
 
+
 ## The *ceteris paribus* assumption
 
 A demand curve (as well as a supply curve, as we will see) is a relationship between two, and only two, variables: quantity on the horizontal axis and price on the vertical axis. The assumption behind a demand curve is that no other relevant economic factors besides the price of the good or service, are changing. This is called the *ceteris paribus* assumption.
 
-> ***ceteris paribus***: "other things being equal." This term is used, when looking at the relationship between two or three variables, to indicate that we are assuming that everything else (besides those variables) is unchanging---at least for some window of time.
+
+!!! note ""
+
+    ***ceteris paribus***: "other things being equal." This term is used when looking at the relationship between two or three variables to indicate that we are assuming that everything else (besides those variables) is not changing---at least for some window of time.
 
 
 
@@ -145,20 +155,29 @@ Most goods, however, are not inferior goods. They are what we call **normal good
 
 Here, we, again, have two categories.
 
-> Two goods are **substitutes** when one can be substituted for the other. So, for example, Coke and Pepsi are substitutes.
->
-> Two goods are **complements** when they are typically consumed together. For example, cars and car insurance or golf clubs and golf balls are complements.
+
+!!! note ""
+
+    Two goods are **substitutes** when one can be substituted for the other. So, for example, Coke and Pepsi are substitutes.
+    
+    Two goods are **complements** when they are typically consumed together. For example, cars and car insurance or golf clubs and golf balls are complements.
 
 Now, think about (*a*) what happens to demand for Pepsi when the price of Coke increases (or decreases)? And (*b*) what happens to demand for golf balls as the price of golf clubs increases (or decreases)?
 
-> For two **substitutes**, *x* and *y*, when the price of *x* increases, the **quantity demanded** of *x* goes down and **demand** for *y* increases. (And vice versa when the price of *x* decreases.)
->
-> For two **complements**, *w* and *z*, when the price of *w* increases, the **quantity demanded** of *w* goes down and the **demand** for *z* goes down. (And vice versa when the price of *w* decreases.)
+
+!!! note ""
+
+    For two **substitutes**, *x* and *y*, when the price of *x* increases, the **quantity demanded** of *x* goes down and **demand** for *y* increases. (And vice versa when the price of *x* decreases.)
+    
+    For two **complements**, *w* and *z*, when the price of *w* increases, the **quantity demanded** of *w* goes down and the **demand** for *z* goes down. (And vice versa when the price of *w* decreases.)
 
 Some care is required here because, for both substitutes and complements, we have a change to the *quantity demanded* and a change to *demand*.
 
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_AOdCq30e4o?si=HhS5fzs15U5yp6QE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_AOdCq30e4o?si=HhS5fzs15U5yp6QE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="caption2"><div align="left">
+<strong>Video 1</strong>
+</div></div>
 
 
 ## 'Shifts in demand' versus 'shifts in quantity demanded'
@@ -181,6 +200,9 @@ The way to keep these two types of changes separate is to notice that we can cha
 In contrast, when there is a change to tastes and preferences, the number of consumers, expectations about future prices, incomes, or the price of related goods, there is no way to register this change on the graph. For instance, if consumer preferences change such that mom jeans suddenly become more popular, there is no "popularity of mom jeans" variable on the graph that we can adjust. That change is happening "off stage," so to speak. In this case, we have to update our whole graph by moving the demand curve (either to the left or to the right).
 
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/toacnxj4Nmg?si=ODWbP8_Y2WaDwEdE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/toacnxj4Nmg?si=ODWbP8_Y2WaDwEdE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TQ4WCx8daDk?si=Kz5fwS1v88aiKnew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TQ4WCx8daDk?si=Kz5fwS1v88aiKnew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="caption2"><div align="left">
+<strong>Videos 3 & 4</strong>
+</div></div>
