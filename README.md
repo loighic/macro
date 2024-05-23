@@ -10,6 +10,9 @@ Other instructors are welcome to use all or any part of it, and it can easily be
 
 Since the files are written in markdown, there are several ways to create your own site. Since I am use [Material for Mkdocs](https://squidfunk.github.io/mkdocs-material/), doing the same is probably the easiest. You can fork this repository and then follow this [video](https://youtu.be/Q-YA_dA8C20) to begin using Mkdocs. 
 
+
+### Notes
+
 When installing Python check the "Add Python 3.8 to PATH" See [this](https://stackoverflow.com/questions/13596505/python-command-not-working-in-command-prompt) for more detailed instructions and a screen shot. 
 
 If you are using Windows, run ```venv\Scripts\activate``` after ```python -m venv venv```
