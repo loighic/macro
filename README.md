@@ -12,6 +12,6 @@ Since the files are written in markdown, there are several ways to create your o
 
 ### Some notes about setting up Mkdocs
 
-When installing Python check the "Add Python 3.8 to PATH" See [this](https://stackoverflow.com/questions/13596505/python-command-not-working-in-command-prompt) for more detailed instructions and a screen shot. 
+When installing Python check the "Add Python 3.8 to PATH" See [this](https://stackoverflow.com/questions/13596505/python-command-not-working-in-command-prompt) for more explanation and a screen shot. 
 
 If you are using Windows, run ```venv\Scripts\activate``` after ```python -m venv venv```
