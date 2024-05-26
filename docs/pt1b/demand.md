@@ -67,7 +67,6 @@ As is stated in the definition, demand can be represented in a schedule (i.e., a
 </tr>
 </tbody>
 </table>
-
 <div class="caption"><div align="left">
 <strong>Table 1</strong>&nbsp;&nbsp;&nbsp;The demand schedule for gasoline lists the possible prices and quantity demanded at each price&mdash;in this case, per week for a medium sized country.
 </div></div>
