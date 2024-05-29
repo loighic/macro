@@ -219,5 +219,3 @@ At the same time, however, crime rates, traffic congestion levels, and income in
 A high level of GDP should not be the only goal of macroeconomic policy or of government policy more broadly. Even though GDP does not measure the broader standard of living with any precision, it does measure production and it does indicate when a country is better or worse off in terms of jobs and incomes. In most countries, a higher GDP per capita goes hand in hand with other improvements in everyday life.
 
 No single number can capture all the elements of a term as broad as "standard of living." Nonetheless, GDP per capita is a reasonable, rough-and-ready measure of a country's standard of living.
-
-:)
