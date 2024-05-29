@@ -74,7 +74,6 @@ As with demand---and as stated in the definition---supply can be represented as 
 
 
 
-
 Every producer in this country---and we are assuming that there a number of them---has its own supply schedule. Table 1 gives the total amounts of gasoline that these producers would be willing and able to sell at each price, which makes it a **market supply schedule**. As we said for demand, since we are studying macroeconomics, we will be primarily be concerned with market supply (whether that is represented as a schedule or a curve).
 
 The information given in table 1 can also be represented by a supply curve. Like the graph for demand, price is on the vertical axis and quantity (in this case quantity supplied) on the horizontal axis.
@@ -104,16 +103,11 @@ So, the more wheat that is produced, the higher the cost of each additional unit
 
 Now, we will consider the factors that cause supply to change. Keep in mind that *supply* refers to the whole curve, and so these are factors that, *for every price*, producers provide more or fewer units of the good. In a graph, this change will be illustrated by the supply curve moving to left when supply decreases, or to the right when supply increases.
 
-<div class="container">
-<div class="row">
-	<div class="col-12">
-		{% responsive_image path: assets/img/macro_fig/2_demand/supply_shifts.png class: "img-fluid rounded z-depth-1" %}
-	</div>
-</div>
+
+![figure](2_demand_img/supply_shifts.png){width="100%"}
 <div class="caption"><div align="left">
-<strong>Figure 2</strong> A decrease in supply is represented by the supply curve moving to the left (first graph). An increase in supply is represented by the supply curve moving the right (second graph).</div>
-</div>
-</div>
+<strong>Figure 2</strong>&nbsp;&nbsp;&nbsp;A decrease in supply is represented by the supply curve moving to the left (first graph). An increase in supply is represented by the supply curve moving the right (second graph).</div></div>
+
 
 
 ### Changes to the price of inputs
@@ -155,16 +149,13 @@ A change to supply is caused by a change to one of the factors just discussed: t
 
 A change to the quantity supplied is caused by a change to the price. This change causes a move to a different point on the supply curve (and the supply curve itself doesn't change).
 
-<div class="container">
-<div class="row">
-	<div class="col-12">
-		{% responsive_image path: assets/img/macro_fig/2_demand/supply_shifts-2.png class: "img-fluid rounded z-depth-1" %}
-	</div>
-</div>
+
+![figure](2_demand_img/supply_shifts-2.png){width="100%"}
 <div class="caption"><div align="left">
-<strong>Figure 3</strong>&nbsp;&nbsp;A change to supply is caused by one of the factors affecting supply (e.g., changes to the price of inputs, etc.). This change will be represented by the supply curve shifting the the left or to the right (first graph). A change to the quantity supplied is caused by a change to the price of the good (second graph).</div>
-</div>
-</div>
+<strong>Figure 3</strong>&nbsp;&nbsp;&nbsp;A change to supply is caused by one of the factors affecting supply (e.g., changes to the price of inputs, etc.). This change will be represented by the supply curve shifting the the left or to the right (first graph). A change to the quantity supplied is caused by a change to the price of the good (second graph).</div></div>
 
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/g_-qMRkovWo?si=gmhQrJWuqQeXAvkG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/g_-qMRkovWo?si=gmhQrJWuqQeXAvkG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="caption2"><div align="left">
+<strong>Video 1</strong>
+</div></div>
