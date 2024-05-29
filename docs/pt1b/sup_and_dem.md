@@ -146,7 +146,7 @@ So, if the price is below the equilibrium level, incentives built into the struc
 
 ## Changes to supply and demand
 
-Recall the [factors that affect demand](/pt1b/demand/#factors-that-shift-demand) and the [factors that affect supply](/pt1b/supply/#factors-that-change-supply). Now that we have the complete supply and demand model, we can investigate how changes to supply or to demand will affect the equilibrium price and quantity.
+Recall the [factors that affect demand](/macro/pt1b/demand/#factors-that-shift-demand) and the [factors that affect supply](/macro/pt1b/supply/#factors-that-change-supply). Now that we have the complete supply and demand model, we can investigate how changes to supply or to demand will affect the equilibrium price and quantity.
 
 Here is a four-step process to follow when investigating a change to supply or demand.
 
