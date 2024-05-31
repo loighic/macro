@@ -163,7 +163,7 @@ Figures 6 - 8 illustrate three of the four possible effects of a change to suppl
 
 ![figure](2_demand_img/supply_demand-4.jpg){width="60%"}
 <div class="caption"><div align="left">
-<strong>Figure 6</strong>&nbsp;&nbsp;&nbsp;When demand decreases and supply remains constant, the intersection of the supply and demand curves changes from E<sub>0</sub> to E<sub>1</sub>. Consequently, the equilibrium price and the equilibrium quantity will both decrease, as shown in the changes from P<sub>0</sub> to P<sub>1</sub> and Q<sub>0</sub> to Q<sub>1</sub>.</div>
+<strong>Figure 6</strong>&ensp; When demand decreases and supply remains constant, the intersection of the supply and demand curves changes from E<sub>0</sub> to E<sub>1</sub>. Consequently, the equilibrium price and the equilibrium quantity will both decrease, as shown in the changes from P<sub>0</sub> to P<sub>1</sub> and Q<sub>0</sub> to Q<sub>1</sub>.</div>
 </div>
 
 

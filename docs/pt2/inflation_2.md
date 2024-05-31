@@ -1,17 +1,9 @@
 ---
-layout: page
-permalink: /macro/inflation_2/
 title: Living with inflation
-nav: false
 ---
 
-<link rel="stylesheet" href="/assets/css/table.css">
 
-[<small>HOME</small>](/macro/)
-
-
-
-##### Inflation and wages
+## Inflation and wages
 
 It's generally expected that prices will rise at least a little bit each year. The other side of this, however, is wages (which technically are a price also). A person's wage can rise every year, but if prices rise at the same rate, then this person gains nothing (and also loses nothing). To make this more precise, let us define nominal and real wages.
 
