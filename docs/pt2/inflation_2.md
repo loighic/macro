@@ -7,9 +7,13 @@ title: Living with inflation
 
 It's generally expected that prices will rise at least a little bit each year. The other side of this, however, is wages (which technically are a price also). A person's wage can rise every year, but if prices rise at the same rate, then this person gains nothing (and also loses nothing). To make this more precise, let us define nominal and real wages.
 
-> **Nominal wage**: The wage that a worker earns given in terms of the amount that he or she is paid by an employer.
->
-> **Real wage**: The wage that a worker earns adjusted for inflation.
+
+!!! note ""
+
+    **Nominal wage**: The wage that a worker earns given in terms of the amount that he or she is paid by an employer.
+    
+    **Real wage**: The wage that a worker earns adjusted for inflation.
+
 
 As an example, let's say that in 2023 Mary graduates from college and immediately begins a job that pays her \$60,000 per year. At some point, she mentions this starting salary to her grandfather who responds, "Wow! Back in 1973, in my first job after graduating from college, my yearly salary was only \$10,000." But who was really making more?
 
@@ -20,9 +24,10 @@ $$ \mathsf{real\ wage = \frac{nominal\ wage}{CPI\ for\ that\ year} \times 100}$$
 The CPI uses an average from 1982, 1983, and 1984 as the base year, and so the real wage that we calculate will be given in 1982 -- 1984 dollars.
 
 
-<p align="center"><iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1idzS&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe></p>
+<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1idzS&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 <div class="caption"><div align="left">
-<strong>Figure 1</strong>&nbsp;&nbsp;The Consumer Price Index (CPI), 1950 to the present.</div></div>
+<strong>Figure 1</strong>&ensp; The Consumer Price Index (CPI), 1950 to the present.</div></div>
+
 
 Mary's and her grandfather's real wages:
 
@@ -30,7 +35,7 @@ $$ \mathsf{Mary = \frac{\$ 60,000}{307.702} \times 100 = \$ 19,691.37}$$
 
 $$ \mathsf{her\ grandfather = \frac{\$ 10,000}{44.4} \times 100 = \$ 22,522.52}$$
 
-So, although her salary was six times larger than her grandfather's, in real terms, Mary's grandfather earned more in 1973.
+So, although her nominal salary was six times larger than her grandfather's, in real terms, Mary's grandfather earned more in 1973.
 
 If we want to compare real wages that are more than a few years apart, using the CPI is the easiest method. If we want to compare real wages that are only a year or two apart, then we can use this formula, as long as we know the rate of inflation:
 
@@ -41,13 +46,13 @@ The earlier year becomes the base year, and the real wage that we calculate is r
 $$ \mathsf{2024\ real\ wage = (\$ 60,000)(.969) = \$ 58,140}$$
 
 
-##### The effects of inflation
+## The effects of inflation
 
-###### Low inflation: 1 -- 3%
+### Low inflation: 1 -- 3%
 
 Although it might seem counterintuitive, in most cases, a low level of inflation is actually better for society than deflation or 0% inflation, both of which can slow spending. For instance, consider what you would do if you wanted to buy a new tv. If there is deflation---that is, prices are falling a little bit each month---then your incentive is to keep putting the purchase off. This prevents you from having the product that you want and a company from selling you the product that you want.
 
-A low level inflation also allows for some easy adjustments to [sticky downward wages](https://loighic.net/macro/unemployment_2/). Recall that sticky downward wages can keep unemployment higher than it otherwise would be. If there is some inflation, however, then employees' real wages can fall without employers having to impose a cut to nominal wages.
+A low level inflation also allows for some easy adjustments to [sticky downward wages](/macro/pt2/unemployment_2/#wages-are-sticky-downward). Recall that sticky downward wages can keep unemployment higher than it otherwise would be. If there is some inflation, however, then employees' real wages can fall without employers having to impose a cut to nominal wages.
 
 For example, let's say that you are making \$60,000 per year and this doesn't change for several years. During this period inflation is 3% each year. In this case, your real wage---that is, your wage adjusted for inflation---is falling. In effect, you are getting a wage cut. Obviously, you don't want a wage cut, but if real wages are above the equilibrium, this will help lower unemployment (and perhaps keep you from being laid off).
 
@@ -75,8 +80,11 @@ For example, let's say that you are making \$60,000 per year and this doesn't ch
 <td>$56,454</td>
 </tr>
 </tbody>
-<caption><strong>Table 1</strong>&nbsp;&nbsp;Real wages, relative to year 1, when the nominal wage is constant and inflation is 3% per year.</caption>
 </table>
+<div class="caption"><div align="left">
+<strong>Table 1</strong>&ensp; &nbsp;&nbsp;Real wages, relative to year 1, when the nominal wage is constant and inflation is 3% per year.
+</div></div>
+
 
 At the same time, if real wages don't need to fall, then as long as workers are receiving a 1 to 3% raise each year, they won't be affected by this level of inflation.
 
@@ -106,20 +114,24 @@ A similar phenomenon occurs with debts. For instance, if you are paying back a \
 <td>$9,409</td>
 </tr>
 </tbody>
-<caption><strong>Table 2</strong>&nbsp;&nbsp;The real value of a loan, relative to year 1, when the loan is being deferred (without interest) and inflation is 3% per year.</caption>
 </table>
+<div class="caption"><div align="left">
+<strong>Table 2</strong>&ensp; The real value of a loan, relative to year 1, when the loan is being deferred (without interest) and inflation is 3% per year.
+</div></div>
 
 
 
 In some circumstances, there is also a relationship between inflation and unemployment: as unemployment goes down, inflation goes up. Inflation may bother us sometimes, but unemployment can be a serious problem for the people who experience it and for their families. Hence, because of this trade-off with unemployment, the benefits caused by some inflation seem to outweigh the costs.
 
-###### Moderate inflation: 4 -- 12%
+
+### Moderate inflation: 4 -- 12%
 
 Slightly higher levels of inflation can amply the benefits of low inflation: real wages will fall by more (although this drop may be more easily perceived by workers, which will reintroduce the reasons why wages are downward sticky in the first place), the real value of loans will fall by more, and unemployment might be much lower than it otherwise would be.
 
 The problem with inflation in the 4 to 12% range, at least in the United States, is that it is less stable than lower levels of inflation. If inflation is, say 8%, but households, firms, and the government don't know if it will increase from there, decrease, or stay the same, it becomes more difficult to make economic plans for the future.
 
-###### Hyperinflation
+
+### Hyperinflation
 
 **Hyperinflation** is sometimes defined as inflation that is above 50% for a month, which is equivalent to a yearly inflation rate of 12,875%. Much lower levels of inflation---say, a yearly rate of 500 or 1,000%---might legitimately be counted as hyperinflation,  however. 
 
@@ -237,6 +249,7 @@ The harms versus the benefits of moderate inflation can be debated, but there is
 <td>5.49%</td>
 </tr>
 </tbody>
-<caption><strong>Table 3</strong>&nbsp;&nbsp;The 12 highest periods of hyperinflation in history. From <a href="https://www.cato.org/sites/cato.org/files/pubs/pdf/hanke-krus-hyperinflation-table-may-2013.pdf">Hanke and Krus (2012)</a>.</caption>
 </table>
-
+<div class="caption"><div align="left">
+<strong>Table 3</strong>&ensp; The 12 highest periods of hyperinflation in history. From <a href="https://www.cato.org/sites/cato.org/files/pubs/pdf/hanke-krus-hyperinflation-table-may-2013.pdf">Hanke and Krus (2012)</a>.
+</div></div>

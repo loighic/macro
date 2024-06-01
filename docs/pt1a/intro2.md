@@ -22,7 +22,7 @@ A **market** is the group of buyers and sellers of a particular good or service 
 
 The opposite of a market economy is a **planned** or **command economy**. In such an economy, a central authority---usually the government or, perhaps, the military---makes these decisions. This central authority decides what goods and services will be produced and how they will be produced. It also decides what prices it will charge for goods and services, and it sets wages for workers. Currently, Cuba and North Korea have command economies.
 
-The U.S. and other western democracies are not pure market economies. They have what are called [mixed economies](https://loighic.net/assets/img/macro_fig/0_intro/market_econ.mp4). In these countries, a significant part of the economy is a market economy, but the government still sets some economic rules, and it produces some goods itself (e.g., public education, fire and police protection, and infrastructure such as roads and bridges).
+The U.S. and other western democracies are not pure market economies. They have what are called [mixed economies](/macro/0_intro_img/market_econ.mp4). In these countries, a significant part of the economy is a market economy, but the government still sets some economic rules, and it produces some goods itself (e.g., public education, fire and police protection, and infrastructure such as roads and bridges).
 
 <small>video from [Investopedia](https://www.investopedia.com/)</small>
 
