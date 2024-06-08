@@ -19,7 +19,9 @@ Given the way that the model is designed, it's not possible to deviate from the 
 { .annotate }
 
 
-1.    If we are looking at supply and demand for a single market (like we did [earlier](/macro/pt1b/sup_and_dem/#a-surplus)), then we know that there will be a surplus when the quantity supplied is greater than the quantity demanded. In the AD-AS model, however, if suppliers produce extra inventory, it just gets counted in the investment portion of GDP, and so it is, by definition, part of the current aggregate demand. Hence, there can't really be a surplus in this model.
+1.    If we are looking at supply and demand for a single market (like we did [earlier](/macro/pt1b/sup_and_dem/#a-surplus)), then we know that there will be a surplus when the quantity supplied is greater than the quantity demanded. 
+
+    In the AD-AS model, however, if suppliers produce extra inventory, it just gets counted in the investment portion of GDP. So, this "surplus" inventory is, by definition, part of the current aggregate demand. Therefore, there can't really be a surplus in this model.
 
 
 ## GDP, inflation, and unemployment
