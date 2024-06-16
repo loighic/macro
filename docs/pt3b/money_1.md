@@ -1,17 +1,9 @@
 ---
-layout: page
-permalink: /macro/money_1/
 title: Money and banking
-nav: false
 ---
 
-<link rel="stylesheet" href="/assets/css/table.css">
 
-[<small>HOME</small>](/macro/)
-
-
-
-##### Bartering
+## Bartering
 
 To understand the usefulness of money, we must consider what the world would be like without it. How would people exchange goods and services? Economies without money typically engage in the barter system. **Barter** is (literally) trading one good or service for another good or service, and it is highly inefficient.
 
@@ -22,7 +14,7 @@ Another problem with the barter system is that it does not allow people who have
 Moreover, all of the time that it takes finding and arranging trades is extra work that cuts into everyone's leisure time.
 
 
-##### The three functions of money
+## The three functions of money
 
 Money solves the problems that the barter system encounters by performing three functions. First, money is an intermediary between a buyer and a seller. Instead of exchanging vegetables for shoes, the farmer can now exchange vegetables for money. He or she can then use this money to buy shoes or anything else. Performing this function makes money a **medium of exchange**.
 
@@ -37,7 +29,7 @@ Third, money is a **unit of account**. As such, it is the ruler by which we meas
 Anything that performs these three functions is money, and many things have been used as money throughout history: gold, silver, cowrie shells, cigarettes, cocoa beans, and many others including, of course, pieces of paper.
 
 
-##### Commodity-backed versus fiat money
+## Commodity-backed versus fiat money
 
 Gold and silver in the form of coins or bars are examples of **commodity money**. They themselves are the money. Gold and silver coins were still used into the twentieth century, but for larger amounts, pieces of paper that stood in for and could be redeemed for gold or silver was more practical. With a **commodity-backed currency**, each unit of the currency (e.g., a dollar) represented a specific amount of a commodity (e.g., 1/35 of an ounce of gold) that was held by a bank.
 
@@ -46,11 +38,15 @@ The alternative to commodity-backed money is **fiat money**. This is money that 
 Commodity-backed money is intuitively appealing, while fiat money might, initially, seem odd or suspicious. But fiat money allows for much more stable economic systems, and there are no countries in the world that still use commodity-backed money.
 
 
-##### The M1 and M2 money supply
+## The M1 and M2 money supply
 
 Now that commodity-backed money no longer exists, the more important distinction for macroeconomics is between the M1 and M2 money supply. To understand the basis of this distinction, we need this definition.
 
-> **Liquidity**: The ease (that is, the speed and cost) with which an asset can be converted into cash.
+
+!!! note ""
+
+    **Liquidity**: The ease (that is, the speed and cost) with which an asset can be converted into cash.
+
 
 Cash, since it already is cash, is the most liquid. A home, in contrast, is an asset and it can be converted into cash, but not very easily. So, homes are not very liquid.
 
@@ -72,28 +68,24 @@ Second, 1 -- 5 constitute two types or definitions of money. The most liquid one
 
 
 
-##### Banks
+## Banks
 
 You might not realize it, but when thinking about money, banks have a much more important role than just being an alternative to storing your money under your mattress. They, with guidance from the Federal Reserve, determine the amount of money that exists.
 
 
-<div class="container">
-<div class="row">
-	<div class="col-9">
-		{% responsive_image path: assets/img/macro_fig/7_money/banks.jpg class: "img-fluid rounded z-depth-1" %}
-	</div>
-</div>
+
+![figure](7_money_img/banks.jpg){width="90%"}
 <div class="caption"><div align="left">
-<strong>Figure 1</strong>&nbsp;&nbsp;Banks are intermediaries between savers and borrowers. These cycles don't just move money around, however, it increases the money supply.</div>
+<strong>Figure 1</strong>&ensp; Banks are intermediaries between savers and borrowers. These cycles don't just move money around, however, it increases the money supply.</div>
 </div>
-</div>
+
 
 We will consider the process more carefully in a moment, but imagine that Jack deposits $100 into his bank account. The bank then uses this $100 to make a loan to Kate. Kate asks Sam to repair her roof, and when he does, she pays him with the $100.  
 
 There is just $100 here. But Jack believes that he has $100. And now Sam also believes that he has $100. Both are correct. Thanks to the bank's ability to take in deposits and make loans, $100 has become $200. 
 
 
-##### The bank's balance sheet {#balance-sheet}
+## The bank's balance sheet
 
 An **asset** is something of value owned by an asset holder. A **liability** is a debt. If you borrow money to buy a home, the home is the asset, and the mortgage is the liability. Your **net worth** is the value of your assets minus the value of your liabilities.
 
@@ -218,13 +210,15 @@ On the asset side (on the left), after the \$900 is deposited, it is added to ba
 
 With the $1,000 held as reserves (in the vault) and $900 worth of loans, the value of the bank's assets is the same as the value of its liabilities: \$1,900.
 
-###### How much money is in this town?
+
+### How much money is in this town?
 
 Before the bank existed, there was \$1,000. No new money has been printed or brought into the town. But deposits are money. Therefore, there is now \$1,900 in this town.
 
 **Fractional-reserve banking** is the system in which banks hold only a fraction of their deposits in reserve. In our example, the bank decided to keep 10 percent of its deposits in reserve. The rest it uses for making loans. Fractional-reserve banking allows the money supply to increase beyond the amount of currency that exists. In effect, this system creates more money.
 
-###### More loans, more deposits, and the money supply increases
+
+### More loans, more deposits, and the money supply increases
 
 Let’s continue the example. Right now, the bank has $1,000 in its reserves and has $1,900 of deposits. It only has to hold 10 percent of its deposits in reserve, which means that its reserves only need to be $190. It can use the rest of the $1,000 that it has in reserves right now to make loans. This will be $810. 
 
@@ -268,10 +262,9 @@ So, it uses the $810 to make loans. This lowers the reserves (i.e., the money in
 <td style="text-align: right; border-top:1px solid #808080;">total</td>
 <td style="border-top:1px solid #808080;">$1,900</td>
 </tr>
-
-
 </tbody>
 </table>
+
 
 Shortly after those loans are made, they are used to make various purchases. The sellers of these goods or services (who now have $810) deposit it back into this bank.
 
@@ -319,7 +312,7 @@ With the $810 deposited, the balance sheet now looks like this:
 </tbody>
 </table>
 
-And again, the supply of money has increased, although the amount of currency is still just $1,000. And, again, the bank is in a position to make more loans. It has $2,710 in deposits, which means that it only has to hold $271 in its reserves. The rest ($729) can be used to make loans.
+And again, the supply of money has increased, although the amount of currency is still just $1,000. And, again, the bank is in a position to make more loans. It has $2,710 in deposits, which means that it only has to hold &dollar;271 in its reserves. The rest (&dollar;729) can be used to make loans.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UmfeaHs00UA?si=IRM8A57b6k9z_14p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -327,7 +320,7 @@ And again, the supply of money has increased, although the amount of currency is
 <strong>Video 1</strong>&nbsp;&nbsp;How the money supply increases as banks make loans.</div></div>
 
 
-##### The money multiplier
+## The money multiplier
 
 As long as there is a reserve requirement, this can\'t go on forever. Given a reserve requirement, the maximum amount of money that can be held as deposits is determined by this formula:
 
@@ -413,4 +406,4 @@ Since the reserve requirement is 10% and deposits are \$10,000, the bank cannot 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kbI8BsXAYzk?si=5rC596qLFBJUgD5z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <div class="caption"><div align="left">
-<strong>Video 2</strong>&nbsp;&nbsp;The money multiplier formula.</div></div>
+<strong>Video 2</strong>&ensp; The money multiplier formula.</div></div>
