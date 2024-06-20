@@ -3,7 +3,7 @@ title: Bank runs and the Federal Reserve
 ---
 
 
-Let's say that our bank (from the [Money and banking](/macro/pt3b/money_1/#the-banks-balance-sheet) page) has made the maximum amount of loans, and so its balance sheet looks like this:
+Let's say that our bank (from the [Money and banking](/macro/pt3b/money_1/#the-banks-balance-sheet) page) has made the maximum amount of loans that it can, and so its balance sheet looks like this:
 
 
 <table class="styled-table">
