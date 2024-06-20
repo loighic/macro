@@ -1,17 +1,9 @@
 ---
-layout: page
-permalink: /macro/money_2/
 title: Bank runs and the Federal Reserve
-nav: false
 ---
 
-<link rel="stylesheet" href="/assets/css/table.css">
 
-[<small>HOME</small>](/macro/)
-
-
-
-Let's say that our bank (from the [Money and banking](/macro/money_1/) page) has made the maximum amount of loans, and so its balance sheet looks like this:
+Let's say that our bank (from the [Money and banking](/macro/pt3b/money_1/#the-banks-balance-sheet) page) has made the maximum amount of loans, and so its balance sheet looks like this:
 
 
 <table class="styled-table">
@@ -116,26 +108,22 @@ But if everyone tries to withdraw all of their money from the bank all at once, 
 This used to be a relatively common occurrence in the United States, but thanks to the Federal Reserve Bank and the Federal Deposit Insurance Corporation (FDIC), it no longer is.
 
 
-<div class="container">
-<div class="row">
-	<div class="col-10">
-		{% responsive_image path: assets/img/macro_fig/7_money/run-on-bank.jpg class: "img-fluid rounded z-depth-1" %}
-	</div>
-</div>
+![figure](7_money_img/run-on-bank.jpg){width="80%"}
 <div class="caption"><div align="left">
-<strong>Figure 1</strong>&nbsp;&nbsp;A run on the Farmers & Mechanics Savings Bank in Minneapolis in the 1890s.</div>
+<strong>Figure 1</strong>&ensp; A run on the Farmers & Mechanics Savings Bank in Minneapolis in the 1890s.</div>
 </div>
-</div>
 
 
 
-##### The central bank
+
+## The central bank
 
 The central bank is the institution in each country that carries out monetary policy and regulates the banking system. It performs some functions of a bank---in a way, it is a bank for banks---but we shouldn't really think of it as a bank.
 
 In the U.S., the central bank is called the "Federal Reserve Bank," or just the "Fed."
 
-##### Bank runs
+
+## Bank runs
 
 Although banks sometimes go out of business, bank runs no longer happen in the U.S. (and in most countries) because there are two safeguards in place.
 
