@@ -37,7 +37,7 @@ The answer to this question is different than---and a little more complicated th
 As shown in figure 2, if a decline on the vertical axis causes an increase on the horizontal axis, then the curve must have a negative slope. 
 
 
-![](5_ad-as_img/AD3b.png){width="80%"}
+![figure](5_ad-as_img/AD3b.png){width="80%"}
 <div class="caption"><div align="left">
 <strong>Figure 2</strong>&ensp; The negative slope of the aggregate demand (AD) curve.</div>
 </div>
