@@ -1,17 +1,9 @@
 ---
-layout: page
-permalink: /macro/open_notes/
 title: Further details on monetary policy
-nav: false
 ---
 
-<link rel="stylesheet" href="/assets/css/table.css">
 
-[<small>HOME</small>](/macro/)
-
-
-
-##### Loanable funds and changes to the interest rate {#loanable_funds}
+## Loanable funds and changes to the interest rate {#loanable_funds}
 
 When explaining monetary policy on the [Monetary policy 1](/macro/fed_1/) and [Monetary policy 2](/macro/fed_1/) pages, we are treating changes to (1) the supply of loanable funds, (2) interest rates, and (3) borrowing (i.e., actual loans) as all happening at the same time. It's useful, however, to understand that each one causes the next. 
 
@@ -22,26 +14,22 @@ Next, as we have said, when the reserve requirement decreases, the supply of loa
 As you know, an increase to the the supply of loanable funds is represented by the supply curve shifting to the right. If interest rates don’t fall, however, then the **quantity of loanable funds demanded** won’t change. In figure 1, the quantity demanded will remain at Q<sub>1</sub>. The supply of loanable funds, meanwhile, will increase to Q<sub>3</sub>. Hence, there will be a surplus. 
 
 
-<div class="container">
-<div class="row">
-	<div class="col-8">
-		{% responsive_image path: assets/img/macro_fig/7_money/loanable_surplus.png class: "img-fluid rounded z-depth-1" %}
-	</div>
+![figure](7_money_img/loanable_surplus.png){width="70%"}
+<div class="caption2"><div align="left">
+<strong>Figure 1</strong></div>
 </div>
-<div class="caption"><div align="left">
-<strong>Figure 1</strong>&nbsp;&nbsp;</div>
-</div>
-</div>
+
 
 This surplus will drive the interest rate down until it reaches i<sub>2</sub> where the quantity of loanable funds demanded equals the quantity supplied (Q<sub>3</sub>). 
 
 Before the supply of loanable funds increased (i.e., before the reserve requirement was changed), the amount of loans was Q<sub>1</sub>. Now, it is Q<sub>3</sub>. So, loans (i.e., borrowing) has increased. 
 
-[<small>RETURN</small>](/macro/fed_1/#change_reserve)
+[<small>RETURN</small>](/macro/pt3b/fed_1/#changing-the-reserve-requirement)
 
 ---
 
-##### Open market operations and loans {#loans}
+
+## Open market operations and loans
 
 As we have seen, when the Federal Reserve buys or sells bonds, the bank's will end up with either too much or too little held in reserve. The bank will get back to holding 10% of its deposits in reserve (or whatever the reserve requirement happens to be). It won't, however, have the loan amount that we derive from the money multiplier formula. 
 
