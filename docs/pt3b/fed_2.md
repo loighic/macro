@@ -1,52 +1,41 @@
 ---
-layout: page
-permalink: /macro/fed_2/
 title: Monetary policy, part 2
-nav: false
 ---
 
-<link rel="stylesheet" href="/assets/css/table.css">
 
-[<small>HOME</small>](/macro/)
+!!! note ""
+
+    The second, and more common, way that the Fed can affect interest rates is by engaging in **open market operations**.
 
 
-
->The second, and more common, way that the Fed can affect interest rates is by engaging in **open market operations**.
-
-##### Bonds
+## Bonds
 
 Before getting to open market operations, however, we have to look at how bonds are bought and sold.
 
-> **Bond**: A loan that includes an agreement to pay a fixed amount until the end of the loan period.
+
+!!! note ""
+
+    **Bond**: A loan that includes an agreement to pay a fixed amount until the end of the loan period.
+
 
 Here is a description of a 40 year bond that Mississippi State University made available to investors in 1981 to raise money for building student housing.
 
 
-<div class="container">
-<div class="row">
-	<div class="col-6">
-		{% responsive_image path: assets/img/macro_fig/7_money/MSU_bond.png class: "img-fluid rounded z-depth-1" %}
-	</div>
+![figure](7_money_img/MSU_bond.png){width="55%"}
+<div class="caption2"><div align="left">
+<strong>Figure 1</strong></div>
 </div>
-<div class="caption"><div align="left">
-<strong>Figure 1</strong>&nbsp;&nbsp;</div>
-</div>
-</div>
+
 
 
 If someone bought a \$100 *Student Housing Revenue Bond of 1981* from Mississippi State, then every six months, this person would get \$1.50 (and so, \$3---i.e., 3% of \$100---per year). This would continue for 40 years, at which point, the person would get his or her \$100 back. For loaning MSU the \$100 back in 1981, the bondholder would earn \$120 (i.e., \$3 every year for 40 years would come to \$120).
 
 
-<div class="container">
-<div class="row">
-	<div class="col-12">
-		{% responsive_image path: assets/img/macro_fig/7_money/bonds.png class: "img-fluid rounded z-depth-1" %}
-	</div>
-</div>
+![figure](7_money_img/bonds.png){width="100%"}
 <div class="caption"><div align="left">
 <strong>Figure 2: Owning a bond</strong>&nbsp;&nbsp;Someone buys a $100 bond for $100. If the bond pays 3% interest, then every year, the bond holder receives 3% of $100: $3. When the bond &ldquo;matures,&rdquo;&mdash;after 40 years in this case&mdash;the bond holder gets the $100 back.</div>
 </div>
-</div>
+
 
 
 Now, let's say that you (or your parent or grandparent) bought this bond back in 1981. You get your \$1.50 every six months, but after 10 years, you need some money. So, you decide to sell the bond on the *secondary bond market*. The person who buys this bond will get the payments every six months, and he or she will also get your \$100 back in December 2021. So, in total, at this point, this bond is worth \$190:
