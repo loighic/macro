@@ -47,11 +47,14 @@ How much should someone pay for this bond? Not \$190 because then this person wo
 
 How much someone pays depends on the other investment opportunities that are available and how safe an Mississippi State University bond is believed to be in 1991. (One risk of buying any bond is that the issuer might not be able to continue making interest payments or pay back the value of the bond. In other words, the issuer might default.) In any case,
 
-> Paying \$100 would mean earning 3% interest for 30 years.
->
-> Paying *less* than \$100 would mean earning *more* than 3% for 30 years.
->
-> Paying *more* than \$100 would mean *less* than 3% for 30 years.
+
+!!! note ""
+
+    Paying \$100 would mean earning 3% interest for 30 years.
+    
+    Paying *less* than \$100 would mean earning *more* than 3% for 30 years.
+    
+    Paying *more* than \$100 would mean *less* than 3% for 30 years.
 
 
 For instance, if someone bought the bond for \$85, then this person would, in total, earn \$105 (\$90 from the interest payments plus \$15 when the \$100 was paid back). This, in effect, would be equivalent to earning \$3.50 for each of the 30 years, and so this buyer would earn the equivalent of 4.1% per year (\$3.50/\$85 = 4.1%).
@@ -61,20 +64,14 @@ All this said, what we care about are U.S. Treasury bonds which are 30-year bond
 Figure 3 shows some of the responsibilities of the Treasury Department and the Federal Reserve Bank. Treasury bonds start their life when they are issued by the Treasury Department. These bonds can be held by one person until they mature, or as we discussed with the Mississippi State bond, they can be sold before they mature on the secondary bond market. The Federal Reserve gets involved in the secondary bond market.
 
 
-<div class="container">
-<div class="row">
-	<div class="col-9">
-		{% responsive_image path: assets/img/macro_fig/7_money/treasury_fed-2.png class: "img-fluid rounded z-depth-1" %}
-	</div>
-</div>
-<div class="caption"><div align="left">
-<strong>Figure 3</strong>&nbsp;&nbsp;</div>
-</div>
+![figure](7_money_img/treasury_fed-2.png){width="85%"}
+<div class="caption2"><div align="left">
+<strong>Figure 3</strong>&ensp; </div>
 </div>
 
 
 
-##### Open market operations
+## Open market operations
 
 Now, back to open market operations. Let's say that this is the balance sheet for a bank that has a 10 percent reserve requirement. Since banks are earning interest on their loans while paying a lower rate of interest to depositors, a bank can have assets that are greater than its liabilities. 
 
@@ -142,7 +139,7 @@ Now, back to open market operations. Let's say that this is the balance sheet fo
 U.S. Treasury bonds are believed to be a very safe investment. The U.S. government will almost certainly make the interest payments and repay the value of the bond, and so, in addition to its reserves and loans, this bank is holding Treasury bonds as an asset.
 
 
-###### Bonds and loose monetary policy
+### Bonds and loose monetary policy
 
 Now, let's say that **the Fed buys \$200 worth of Treasury bonds from the bank**. This means that the bank's reserves increase by \$200 and its bond holdings decrease by the same amount.
 
@@ -274,16 +271,14 @@ With \$1,200 in reserves and a 10 percent reserve requirement, the bank will eve
 When we began---right before the Fed bought bonds from the bank---the bank had $9,000 worth of loans. Because of the Fed's action, loans have increased to $10,800. This increase in borrowing (and the spending that goes with it) will, then, increase aggregate demand.
 
 
----
 
-<span style="color:RebeccaPurple">
-More precisely, by buying bonds, the Fed has increased the supply of loanable funds. This increase to the supply of loanable funds means that the [supply curve shifts to the right](https://loighic.net/assets/img/macro_fig/7_money/loanable_funds.png), which lowers the interest rate. A lower interest rate, then, will cause more firms and consumers to get loans from the bank. As a result, aggregate demand increases.
-</span>
+!!! Abstract "Increasing the supply of loanable funds"
 
----
+     More precisely, by buying bonds, the Fed has increased the supply of loanable funds. This increase to the supply of loanable funds means that the [supply curve shifts to the right](https://loighic.net/assets/img/macro_fig/7_money/loanable_funds.png), which lowers the interest rate. A lower interest rate, then, will cause more firms and consumers to get loans from the bank. As a result, aggregate demand increases.
 
 
-##### Bonds and tight monetary policy {#open_tight}
+
+## Bonds and tight monetary policy
 
 By selling bonds to the bank, the Fed can do the reverse. Let's start with this balance sheet again.
 
@@ -409,7 +404,7 @@ The Fed sells $200 worth of bonds to the bank. This will decrease the amount tha
 </table>
 
 
-Because the bank is not, at the moment, holding 10% of it's deposits in reserve, it has to adjust the amount of loans and deposits that it has. Therefore, it will undertake the [same process](/macro/fed_1/#tight_reserves) as it does when the Fed raises the reserve requirement. 
+Because the bank is not, at the moment, holding 10% of it's deposits in reserve, it has to adjust the amount of loans and deposits that it has. Therefore, it will undertake the [same process](/macro/pt3b/fed_1/#raising-the-reserve-requirement) as it does when the Fed raises the reserve requirement. 
 
 Money is taken from deposits and used to repay loans. (When money is withdrawn it is taken from reserves, but when it given to the bank as repayment for the loan it is put into reserves. Hence, reserves remain constant.) This process will be repeated until the bank has this balance sheet---which we find by using the money multiplier formula:
   
@@ -474,19 +469,17 @@ Money is taken from deposits and used to repay loans. (When money is withdrawn i
 </table>
 
 
-Now, the bank is meeting the 10% reserve requirement. ([Note](/macro/open_notes/#loans))
+Now, the bank is meeting the 10% reserve requirement. ([Note](/macro/pt3b/open_notes/#open-market-operations-and-loans))
 
 When we began---right before the Fed sold bonds to the bank---the bank had $10,000 of deposits and $9,000 worth of loans. Because of the Fed's action, loans have decreased to $7,200. This decrease to borrowing (and the spending that goes with it) will, then, decrease aggregate demand.
 
----
 
-<span style="color:RebeccaPurple">
-More precisely, the Fed's action caused the supply of loanable funds to decrease. This causes the interest rate to rise, which causes borrowing to decrease.  
-</span>
+!!! Abstract "Decreasing the supply of the loanable funds"
 
----
+    More precisely, the Fed's action caused the supply of loanable funds to decrease. This causes the interest rate to rise, which causes borrowing to decrease.
 
-##### The Fed and monetary policy
+
+## The Fed and monetary policy
 
 It is easier to understand monetary policy, at least to the extent that we have covered it here, if you see that (1) the Fed lowering the reserve requirement and (2) the Fed buying bonds from the bank both have the same immediate effect: the bank has more in reserves than it is required to hold. Hence, the supply of loanable funds has, for the bank, suddenly increased. 
 
@@ -495,27 +488,24 @@ This increase to the supply of loanable funds, then, has an effect on interest r
 Similarly, (1) the Fed raising the reserve requirement and (2) the Fed selling bonds to the bank also have the same immediate effect: the bank has less in reserves than it is required to hold. Hence, the supply of loanable funds has, for the bank, suddenly decreased. Again, this affects interest rates, borrowing, purchasing, and aggregate demand.  
 
 
-##### The federal funds rate
+## The federal funds rate
 
 When the Fed engages in buying and selling bonds to implement a monetary policy, what we see in the news is "the Fed is raising \[or lowering\] interest rates." The Fed is not, however, directly controlling interest rates (and it can't). It's only buying and selling Treasury bonds. 
 
 
-<div class="container">
-<div class="row">
-	<div class="col-10">
-		{% responsive_image path: assets/img/macro_fig/7_money/fed_news.png class: "img-fluid rounded z-depth-1" %}
-	</div>
-</div>
-<div class="caption"><div align="left">
-<strong>Figure 4</strong>&nbsp;&nbsp;</div>
-</div>
+![figure](7_money_img/fed_news.png){width="100%"}
+<div class="caption2"><div align="left">
+<strong>Figure 4</strong>&ensp; </div>
 </div>
 
 
 But it does this buying and selling with the intention of moving a specific interest rate called the "federal funds rate."
 
 
-> **Federal funds rate**: The interest rate that banks charge when they make short-term loans to each other; these are usually overnight loans, which a bank might need to meet its reserve requirements.
+!!! note ""
+
+    **Federal funds rate**: The interest rate that banks charge when they make short-term loans to each other; these are usually overnight loans, which a bank might need to meet its reserve requirements.
+
 
 The federal funds rate is not an interest rate that an individual or a firm will ever have on a loan, but it indirectly affects the interest rates that we do have on loans, as well as the interest we earn by depositing money in savings accounts. So, if the federal funds rate is rising, other interest rates will rise. And if it is falling, other interest rates will fall.
 
