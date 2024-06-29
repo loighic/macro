@@ -271,7 +271,6 @@ With \$1,200 in reserves and a 10 percent reserve requirement, the bank will eve
 When we began---right before the Fed bought bonds from the bank---the bank had $9,000 worth of loans. Because of the Fed's action, loans have increased to $10,800. This increase in borrowing (and the spending that goes with it) will, then, increase aggregate demand.
 
 
-
 !!! Abstract "Increasing the supply of loanable funds"
 
      More precisely, by buying bonds, the Fed has increased the supply of loanable funds. This increase to the supply of loanable funds means that the [supply curve shifts to the right](/macro/pt3b/7_money_img/loanable_funds.png), which lowers the interest rate. A lower interest rate, then, will cause more firms and consumers to get loans from the bank. As a result, aggregate demand increases.
