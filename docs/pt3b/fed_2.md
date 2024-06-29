@@ -274,7 +274,7 @@ When we began---right before the Fed bought bonds from the bank---the bank had $
 
 !!! Abstract "Increasing the supply of loanable funds"
 
-     More precisely, by buying bonds, the Fed has increased the supply of loanable funds. This increase to the supply of loanable funds means that the [supply curve shifts to the right](/7_money_img/loanable_funds.png), which lowers the interest rate. A lower interest rate, then, will cause more firms and consumers to get loans from the bank. As a result, aggregate demand increases.
+     More precisely, by buying bonds, the Fed has increased the supply of loanable funds. This increase to the supply of loanable funds means that the [supply curve shifts to the right](/macro/pt3b/7_money_img/loanable_funds.png), which lowers the interest rate. A lower interest rate, then, will cause more firms and consumers to get loans from the bank. As a result, aggregate demand increases.
 
 
 
