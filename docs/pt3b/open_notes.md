@@ -51,6 +51,6 @@ which in our example gave us this:
 $$ \mathsf{\Bigl(\frac{1}{.10} \times 800\Bigr)\ - 800 = $7,200}$$
 
 
-[<small>RETURN</small>](/macro/fed_2/#open_tight)
+[<small>RETURN</small>](/macro/pt3b/fed_2/#bonds-and-loose-monetary-policy)
 
 ---
