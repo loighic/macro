@@ -2,6 +2,8 @@
 title: Intro to Some Economic Concepts
 ---
 
+This section and the next one cover important economic concepts and tools (the latter being models and graphing). This will, in a general way, introduce you to what economics is and how we pursue its study.  
+
 
 ## What is economics?
 
@@ -33,7 +35,7 @@ There are four categories of resources: land, labor, capital, and entrepreneursh
 
 3. **Capital**, in economics, are the resources that are (*a*) made, (*b*) facilitate the production of goods and services, and (*c*) are not used up shortly after being produced. So, for example, *factories*, *equipment*, and *distribution networks* are types of capital.
 
-4. **Entrepreneurship** is the ability to combine land, labor, and capital to produce goods and services.
+4. **Entrepreneurship** is the ability to combine land, labor, and capital to produce goods and services. This is not just entrepreneurship in the everyday sense of the word---i.e., some people's ability to start new businesses. Instead, it is the ability of any person, group, or institution to combine land, labor, and capital in productive ways.
 
 
 
@@ -50,12 +52,12 @@ When producing goods and services, land, labor, capital, and entrepreneurship ar
 
 ## Economic models
 
-To help understand the economy, economists often create models. A model is a simplified representation of something, in this case, the economy. One very simple model of the economy is the **circular flow diagram**. In this model, the economy consists of two groups, *households* and *firms*, and they interact in two markets: the goods and services market and the labor market. In the first market, firms sell goods and services to households (which, therefore, buys the goods and services). In the second, households sell labor to firms (and so the firms buy the labor).
+To help understand the economy, economists often create models. A model is a simplified representation of something, in this case, the economy. One very simple model of the economy is the **circular flow diagram**. In this model, the economy consists of two groups, *households* and *firms*, and they interact in two markets: the goods and services market and the labor market. In the first market, firms sell goods and services to households (which buy the goods and services). In the second, households sell labor to firms (and the firms buy the labor).
 
 
 ![The circular flow diagram](0_intro_img/circle_model.jpg){width="60%"}
 <div class="caption"><div align="left">
-<strong>Figure 1: The Circular Flow Diagram</strong> The circular flow diagram shows how households and firms interact in the (1) goods and services market and (2) labor market. The direction of the arrows indicate that, in the goods and services market, households receive goods & services and pay firms for them (arrows A and B). Meanwhile, in the labor market, households provide labor and receive payment from firms through wages, salaries, and benefits (arrows C and D).</div></div>
+<strong>Figure 1: The Circular Flow Diagram</strong>&ensp; The circular flow diagram shows how households and firms interact in the (1) goods and services market and (2) labor market. The direction of the arrows indicate that, in the goods and services market, households receive goods & services and pay firms for them (arrows A and B). Meanwhile, in the labor market, households provide labor and receive wages, salaries, and benefits as payment from firms (arrows C and D).</div></div>
 
 
 In actuality, there are many different markets for goods and services, and markets for many different types of labor. The circular flow diagram simplifies this to make the description of the economy easier to grasp. Nonetheless, this model has enough features to illustrate how production and labor interact. And we can [add details](https://www.rba.gov.au/education/resources/illustrators/pdf/circular-flow-model.pdf) to this basic model if we want to introduce more real-world elements, such as financial markets, governments, or trade with other countries.
@@ -87,7 +89,7 @@ The relationship between the two variables can be positive, negative, or complex
 ![pos](0_intro_img/graph-pos.png){width="48%"} ![neg](0_intro_img/graph-neg.png){width="48%"}
 
 <div class="caption"><div align="left">
-<strong>Figures 2 & 3</strong> The two variables in the graph on the left are positively related, and so the slope of the line is positive. The two variables in the graph on the right are negatively related, and so the line has a negative slope.</div>
+<strong>Figures 2 & 3</strong>&ensp; The two variables in the graph on the left are positively related, and so the slope of the line is positive. The two variables in the graph on the right are negatively related, and so the line has a negative slope.</div>
 </div>
 
 
@@ -143,11 +145,10 @@ Here is a set of data. The variables are *infant mortality rate* and *per capita
 The independent variable is *per capital GDP*, and as we can see, as the value of this variable increases, the value of the dependent variable, *infant mortality rate*, decreases. Hence, there is a negative relationship between the two variables. This relationship is illustrated in the graph in figure 4.
 
 
-![graph](0_intro_img/graph-imr.png){width="80%"}
+![graph](0_intro_img/graph-imr.png){width="60%"}
 <div class="caption2"><div align="left">
 <strong>Figure 4</strong></div>
 </div>
-
 
 
 
@@ -156,7 +157,7 @@ Now, let's look at a graph from the [Federal Reserve Economic Data](https://fred
 
 <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1dAWV&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 
-<div class="caption"><div align="left"><strong>Figure 5 U.S. nominal GDP</strong> You can probably find the interruption to GDP caused by the covid pandemic. The decline in GDP ten years before the covid pandemic was caused by the 2007 - 2008 financial crisis.</div></div>
+<div class="caption"><div align="left"><strong>Figure 5: U.S. nominal GDP</strong>&ensp; You can probably find the interruption to GDP caused by the covid pandemic. The decline in GDP ten years before the covid pandemic was caused by the 2007 - 2008 financial crisis.</div></div>
 
 
 Figure 5 is a graph of **nominal GDP**. The years from 1947 to the present are on the horizontal axis. 

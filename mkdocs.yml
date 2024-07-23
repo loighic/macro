@@ -61,8 +61,8 @@ extra_javascript:
 nav:
   - 'HOME': index.md
   - 'PART 1':
-    - 'Some economic concepts': pt1a/intro1.md
-    - 'Important economic ideas': pt1a/intro2.md
+    - 'Some economic concepts and tools': pt1a/intro1.md
+    - 'More economic concepts': pt1a/intro2.md
     - 'Choice and the budget constraint': pt1a/constraint.md
     - 'The production possibilities frontier': pt1a/ppf.md
     - 'Comparative advantage': pt1a/advantage.md

@@ -1,5 +1,5 @@
 ---
-title: Important economic ideas
+title: More Intro to Economic Concepts
 ---
 
 
