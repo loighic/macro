@@ -66,10 +66,11 @@ Imagine that when Bill Gates started Microsoft, he had \$2,000 in his personal b
 
 Assuming that Bill Gates, at least in this early part of his career, is like rest of us, we would expect that the largest increase in utility occurred in the first year, when his wealth increases from \$2,000 to \$5,000,000. It is good to have \$2,000 in one's bank account. This amount will cover many unexpected expenses and temporary periods of unemployment. But having \$5,000,000 is altogether different. This is more than enough to provide many luxuries and financial stability for a lifetime. Hence, we would expect the largest increase in Bill Gates' utility during this year.
 
-The next year's increase from $5 million to $10 million is, actually, slightly greater than the first year's increase, but probably (and for most people) the increase in happiness (or utility) would not be quite as large. Having $10 million is, generally speaking, better than having $5 million, but it probably won't positively change a person's life as much as the change from $2,000 to $5 million would. This is not to say that getting to $10 million didn't increase Bill Gates' happiness. We're just saying that it didn't increase it by as much as getting the $4,998,000 the previous year.   
+The next year's increase in money (from $5 million to $10 million) is slightly greater than the first year's increase. We would expect the increase in happiness (or utility), however, to be a little bit smaller. Having $10 million is, generally speaking, better than having $5 million, but it probably won't positively change a person's life as much as the change from $2,000 to $5 million would. This is not to say that getting to $10 million didn't increase Bill Gates' happiness. It just (probably) didn't increase it by as much as getting the $4,998,000 did the previous year.   
 
 
-Now, let's consider year 12. At the beginning of this year, our fictional Bill Gates had \$55 million. By the end of it, he has \$60 million. We would expect this additional \$5 million to increase his utility (or happiness) a bit, but by less than any of the other \$5 million increases. Having \$60 million is, presumably, better than having \$55 million, but it's not likely to change a person's well-being, happiness, or utility by much. Most of the things that you can do with \$60 million, you can already do with \$55 million.
+Now, let's consider year 12. At the beginning of this year, our fictional Bill Gates had \$55 million. By the end of it, he had \$60 million. We would expect this additional \$5 million to increase his utility (or happiness) a bit, but by less than any of the other \$5 million increases. Having \$60 million is, presumably, better than having \$55 million, but it's not likely to change a person's well-being, happiness, or utility by much. Most of the things that you can do with \$60 million, you can already do with \$55 million.
+
 
 ![figure](0_intro_img/utility-1b.png){width=88%}
 <div class="caption"><div align="left">
@@ -81,7 +82,7 @@ Utility is subjective, and so the real Bill Gates's (or anyone else's) actual ut
 This is not to say, however, that our fictional Bill Gates was losing utility (or happiness) each year. Figure 6 (above) shows the utility created by the additional \$5 million that he acquired each year. We would expect, however, that his *total* utility (based just on this increasing wealth) to be increasing each year. This is illustrated in figure 7. But, as this this figure shows, marginal utility---that is, the additional amount of utility created by each additional \$5 million---is getting smaller each year.
 
 
-![figure](0_intro_img/utility-2b.png){width="65%"}
+![figure](0_intro_img/utility-2b.png){width="74%"}
 <div class="caption"><div align="left">
 <strong>Figure 7</strong>&ensp; Bill Gates' total utility is increasing, but each additional $5 million creates a smaller increase than the one before it.</div></div>
 

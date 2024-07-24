@@ -17,9 +17,9 @@ This section will continue our examination of scarcity and the economic way of t
 
 ## Choices among two goods
 
-As you will see in this section and in the sections on the [production possibilities frontier](/macro/pt1a/ppf/) (and [here](/macro/pt1a/trade/)), we treat economic agents---in these cases, individuals and countries---as if all of their decisions about which goods to consume (or to produce and consume) involved only two goods. In some cases this is realistic, but in many cases it is not. Individuals, and even more so societies, often make choices between more than just two options at a time. 
+As you will see in this section and in the sections on the [production possibilities frontier](/macro/pt1a/ppf/), we treat economic agents---in these cases, individuals and countries---as if all of their decisions about which goods to consume (or to produce and consume) involved only two goods. In some cases this is realistic, but in many cases it is not. Individuals, and even more so societies, often make choices between numerous options at any one time. 
 
-Focusing on just two goods, however, lets us create the standard two-dimensional graphs to illustrate and investigate the budget constraint and the production possibilities frontier. But don't worry. These concepts can be applied to real world situations that involve more than just two goods. If you like, you can ponder how a budget constraint or a production possibilities frontier for three goods would appear on a three-dimensional graph. If we wanted to investigated how trade-offs are made for more than three goods, then we would have to give up graphing and carry out our analysis using math or a computer program. 
+Focusing on just two goods, however, lets us create two-dimensional graphs to illustrate and investigate the budget constraint and the production possibilities frontier. But don't worry. These concepts can be applied to real world situations that involve more than just two goods. If you like, you can ponder how a budget constraint or a production possibilities frontier for three goods would appear on a three-dimensional graph. If we wanted to investigated how trade-offs are made for more than three goods, then we would have to give up graphing and carry out our analysis using math or a computer program. 
 
 
 ## The budget constraint
@@ -107,17 +107,17 @@ And we can graph these different opportunities as is shown in figure 1.
 
 This line in the graph is Sam's **budget constraint**. It represents all possible combinations of the two goods that he can afford, given his income and the price of the goods.
 
-Sam can choose any of the combinations of goods that are either on the line or to the left of it (that is, inside the constraint, so to speak). We note the following features of the budget constraint.
+Sam can choose any of the combinations of goods that are either on the line or to the left of it (or as we can say, "inside his budget constraint"). We note the following features of the budget constraint.
 
 1. If Sam chooses a combination of pizza and burritos that is inside his budget constraint, then he is wasting money by not consuming more of one or the other of the goods (or more of both).
 
 2. Sam cannot consume a combination of these two goods that is outside of (i.e., to the right of) his budget constraint, given his \$100 budget.
 
-3. Sam can consume any combination of pizza and burritos that is on his budget constraint, and no combination is better or worse than any other. But because of the law of diminishing marginal utility, most people will want some of both goods. In most cases, most people will eventually reach a point where an additional unit of even the preferred good is going to bring less satisfaction (utility, happiness) than a unit of the other good.
+3. Sam can consume any combination of pizza and burritos that is on his budget constraint, and no combination is better or worse than any other. But because of the law of diminishing marginal utility, most people will want some of both goods. In most cases, most people will eventually reach a point where an additional unit of even the preferred good is going to bring less satisfaction (or utility or happiness) than a unit of the other good.
 
 4. Sam's budget constraint will shift to the right if either (*a*) Sam's income increases or (*b*) the price of either or both goods decreases. (So, therefore, (*a*) and (*b*) are functionally equivalent: an increase in income is the same as a decrease in prices.)
 
-5. Sam's budget constraint will shift to the left if either (*a*) Sam's income decreases or (*b*) the price of either or both goods increases. (So, therefore, again, (*a*) and (*b*) are functionally equivalent: a decrease in income is the same as a increase in prices.)
+5. Sam's budget constraint will shift to the left if either (*a*) Sam's income decreases or (*b*) the price of either or both goods increases. (So, again, (*a*) and (*b*) are functionally equivalent: a decrease in income is the same as a increase in prices.)
 
 ## Sam's opportunity cost
 
@@ -130,7 +130,7 @@ When Sam buys a pizza, he is giving up the chance to have some number of burrito
 <strong>Figure 2</strong></div></div>
 
 
-We'll start with the opportunity cost of buying a pizza. It doesn't matter which point we pick on the horizontal axis, but let's start with point A on the budget constraint. If Sam selects this combination, he will have 20 burritos and zero pizzas. So, if he switches from zero to one pizza---which will take him to point B on the budget constraint---how many burritos does he give up? He gives up two. That is, he goes from having 20 burritos to having 18.
+We'll start with the opportunity cost of buying a pizza. Consider point A on the budget constraint. If Sam selects this combination, he will have 20 burritos and zero pizzas. If he then switches from zero to one pizza---which will take him to point B on the budget constraint---how many burritos does he give up? He gives up two. That is, he goes from having 20 burritos to having 18.
 
 Next, we do the same for burritos. If Sam buys zero burritos, then he can have 10 pizzas. This is point C. If Sam switches from zero burritos to 1 (which will take him to point D), how many pizzas does he give up? He gives up ½ of a pizza. That is, he goes from having 10 pizzas to have 9.5. These, then, are Sam's opportunity costs:
 
@@ -138,7 +138,7 @@ Next, we do the same for burritos. If Sam buys zero burritos, then he can have 1
 
     The opportunity cost of buying a pizza is 2 burritos.
     
-	The opportunity cost of buying a burring is .5 pizzas.
+	The opportunity cost of buying a burrito is .5 pizzas.
 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/m5ABIikb_D8?si=kgqhZhrbb6NjoZrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
