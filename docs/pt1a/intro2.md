@@ -5,22 +5,22 @@ title: More Intro to Economic Concepts
 
 ## Microeconomics and macroeconomics
 
-The distinction between microeconomics and macroeconomics is not a perfectly clean one in practice---and we will cover some microeconomics topics in this course. The general distinction, however, is that microeconomics focuses on the decisions and actions of individual agents (i.e., individual persons or single households or individual firms). Macroeconomics, meanwhile, focuses on the economic activities of all of these actors taken together. You might think of this as 'aggregate economics' since it is the study of the aggregate: the actions and decisions of all of the individual economic agents.
+The distinction between microeconomics and macroeconomics is not a perfectly clean one in practice, and we will cover some microeconomics topics in this course. The general distinction, however, is as follows. Microeconomics focuses on the decisions and actions of individual agents (i.e., individual persons or single households or individual firms). Macroeconomics, meanwhile, focuses on the economic activities of all of these actors taken together. You might think of this as 'aggregate economics' since it is the study of the aggregate: the actions and decisions of all of the individual economic agents.
 
 Consequently, macroeconomics focuses on questions such as these: What determines how many goods and services a nation produces? What determines how many jobs are available in an economy? What determines a nation’s standard of living? What causes economic growth to speed up or slow down? What causes firms to hire more workers or to lay them off? and What causes the economy to grow over the long term?
 
-We can track an economy's macroeconomic health by examining a number of goals: growth in the standard of living, low unemployment, and low inflation, to name the most important. 
+We can track an country's macroeconomic health by examining a number of goals: the increase in the number of goods and services that are produced, the increase to the overall standard of living, and the rates of unemployment and inflation, to name the most important. 
 
-An important part of macroeconomics is studying how macroeconomic policies implemented by the government can be used to pursue these goals. A nation's central bank conducts **monetary policy**, which involves policies that affect bank lending, interest rates, and financial markets. For the United States, the Federal Reserve pursues these policies. 
+An important part of macroeconomics is studying how macroeconomic policies implemented by the government can be used to pursue these goals. A nation's central bank conducts **monetary policy**, which involves policies that affect bank lending, interest rates, the production of goods and services, and the rates of unemployment and inflation. For the United States, the Federal Reserve pursues these policies. 
 
-A nation's legislative body determines **fiscal policy**, which involves adjustments to government spending and taxes. For the United States, this is done by Congress and the executive branch. 
+A nation's government determines **fiscal policy**, which involves adjustments to government spending and taxes. For the United States, this is done by Congress and the president. 
 
 
 ## Markets
 
-A **market** is the group of buyers and sellers of a particular good or service who come together (in-person or virtually) to transact---as happens in, for instance, the Chicago housing market, the stock market, the [Starkville Community Market](https://starkville.org/things-to-do/starkville-community-market/) or the [127 Yard Sale](https://www.facebook.com/127yardsale/). In a market economy, these interactions determine how resources are used, what goods are produced, what quantities are produced, and what the prices will be.
+A **market** is the group of buyers and sellers of a particular good or service who come together (in-person or virtually) to transact---as happens, for instance, in the Chicago housing market, the stock market, the [Starkville Community Market](https://starkville.org/things-to-do/starkville-community-market/) or the [127 Yard Sale](https://www.facebook.com/127yardsale/). In a market economy, these interactions determine how resources are used, what goods are produced, what quantities are produced, and what the prices will be.
 
-The opposite of a market economy is a **planned** or **command economy**. In such an economy, a central authority---usually the government or, perhaps, the military---makes these decisions. This central authority decides what goods and services will be produced and how they will be produced. It also decides what prices it will charge for goods and services, and it sets wages for workers. Currently, Cuba and North Korea have command economies.
+The opposite of a market economy is a **planned** or **command economy**. In such an economy, a central authority---usually the government or, perhaps, the military---decides what goods and services will be produced and how they will be produced. It also decides what prices it will charge for goods and services, and it sets wages for workers. Currently, Cuba and North Korea have command economies.
 
 The U.S. and other western democracies are not pure market economies. They have what are called [mixed economies](/macro/pt1a/0_intro_img/market_econ.mp4). In these countries, a significant part of the economy is a market economy, but the government still sets some economic rules, and it produces some goods itself (e.g., public education, fire and police protection, and infrastructure such as roads and bridges).
 
@@ -45,20 +45,20 @@ We find out if a descriptive statement is true or false by examining the world a
 
 5. 'The government should implement a policy that will make 12 million people better off and no one worse off' is a normative statement.
 
-As you can see from these examples, normative and descriptive statements can be related. Economics, like all sciences, is concerned with the descriptive. But, economists, understanding this science as they do, are often inclined to offer (and argue for, defend, and try to justify) normative statements.
+As you can see from these examples, normative and descriptive statements can be related. Economics, like all sciences, is concerned with the descriptive. But, economists, understanding this science as they do, can be inclined to offer (and argue for, defend, and try to justify) normative statements.
 
 
-## Marginal benefit, marginal analysis, and marginal utility
+## Marginal analysis
 
-**Marginal**, in the sense that we will use it, has a meaning that is close to *additional*. So, a *marginal analysis* examines the cost or benefit of consuming (or producing) an additional unit of a good. The marginal benefit is the benefit that is added by consuming (or producing) another unit. 
+**Marginal**, in the sense that we will use it, has a meaning that is close to *additional*. So, a *marginal analysis* examines the cost or benefit of consuming (or producing) an additional unit of a good. A *marginal benefit* is the benefit that is added by consuming (or producing) another unit. Similarly, a *marginal cost* is the cost that is incurred by consuming or producing an additional unit.
 
-For example, you might wonder what the benefit of one more hour of studying is. If it's your first or second hour of studying, then the benefit will be high. If it's your 30th hour of continuous studying, then the benefit will probably be low. Similarly, a firm producing cars might wonder what the cost of manufacturing one more car at its factory is. Again, it depends where on the spectrum this additional unit will occur.
+For example, you might wonder what the benefit of one more hour of studying is. If it's your first or second hour of studying, then the benefit will be high. If it's your 30th hour of continuous studying, then the benefit will probably be low. Similarly, a firm producing cars might wonder what the cost is of manufacturing one more car. Again, it depends where on the spectrum this additional unit will occur.
 
-**Utility**, as it is used in economics, means something like "having one's preferences satisfied," although utility is not all or nothing. Any event provides some number of units of utility (including zero, and perhaps negative amounts). *Utility* is not the same as *happiness*, but *happiness* is sometimes a good substitute when thinking about how economic decisions might affect a person's utility.
+**Utility**, as it is used in economics, means something like "having one's preferences satisfied," although utility is not all or nothing. Any event---eating a cookie, buying a house, going to the beach---provides some number of units of utility (including zero, and perhaps negative amounts). *Utility* is not the same as *happiness*, but *happiness* is sometimes a good substitute when thinking about how economic decisions might affect a person's utility.
 
 To introduce the concept of **marginal utility**, let's consider a fictional example.
 
-Let's say that when Bill Gates started Microsoft, he had \$2,000 in his personal bank account. Then, after one year, he had \$5 million. After the second year, he had \$10 million, after the third he had \$15 million, and so on for the next nine years. Each year he added \$5 million to his personal savings (except for the first, when he added \$4,998,000), and so after 12 years he had \$60 million. Now, consider these questions.
+Imagine that when Bill Gates started Microsoft, he had \$2,000 in his personal bank account. Then, after one year, he had \$5 million. After the second year, he had \$10 million, after the third he had \$15 million, and so on for the next nine years. Each year he added \$5 million to his personal savings (except for the first, when he added \$4,998,000), and so after 12 years he had \$60 million. Now, consider these questions.
 
 1. Just counting the happiness (or utility) that he derived from his money, which individual year do you think made him the happiest? Or otherwise stated, in which year did he achieve the greatest increase in utility?
 
@@ -66,21 +66,24 @@ Let's say that when Bill Gates started Microsoft, he had \$2,000 in his personal
 
 Assuming that Bill Gates, at least in this early part of his career, is like rest of us, we would expect that the largest increase in utility occurred in the first year, when his wealth increases from \$2,000 to \$5,000,000. It is good to have \$2,000 in one's bank account. This amount will cover many unexpected expenses and temporary periods of unemployment. But having \$5,000,000 is altogether different. This is more than enough to provide many luxuries and financial stability for a lifetime. Hence, we would expect the largest increase in Bill Gates' utility during this year.
 
+The next year's increase from $5 million to $10 million is, actually, slightly greater than the first year's increase, but probably (and for most people) the increase in happiness (or utility) would not be quite as large. Having $10 million is, generally speaking, better than having $5 million, but it probably won't positively change a person's life as much as the change from $2,000 to $5 million would. This is not to say that getting to $10 million didn't increase Bill Gates' happiness. We're just saying that it didn't increase it by as much as getting the $4,998,000 the previous year.   
+
+
 Now, let's consider year 12. At the beginning of this year, our fictional Bill Gates had \$55 million. By the end of it, he has \$60 million. We would expect this additional \$5 million to increase his utility (or happiness) a bit, but by less than any of the other \$5 million increases. Having \$60 million is, presumably, better than having \$55 million, but it's not likely to change a person's well-being, happiness, or utility by much. Most of the things that you can do with \$60 million, you can already do with \$55 million.
 
-![figure](0_intro_img/utility-1.png){width=95%}
+![figure](0_intro_img/utility-1b.png){width=88%}
 <div class="caption"><div align="left">
 <strong>Figure 6</strong>  The utility that each additional $5,000,000 creates over 12 consecutive years. We typically expect that each additional unit of a good&mdash;in this case each additional $5,000,000&mdash;will bring a smaller amount of happiness (or utility) than the previous one.</div></div>
 
 
 Utility is subjective, and so the real Bill Gates's (or anyone else's) actual utility might be different, but generally speaking we would expect that the first \$5 million would cause the largest increase in utility (or happiness), the last \$5 million would cause the smallest increase, and each year in between would be lower than the previous one.
 
-This is not to say, however, that our fictional Bill Gates was losing utility (or happiness) each year. Figure 6 (above) shows the utility created by the additional \$5 million that he acquired each year. We would expect, however, that his *total* utility (based just on this increasing wealth---the real Bill Gates, like everyone, had other things going on in his life) to be increasing each year. This is illustrated in figure 7. But, as this this figure shows, marginal utility---that is, the additional amount of utility created by each additional \$5 million---is getting smaller each year.
+This is not to say, however, that our fictional Bill Gates was losing utility (or happiness) each year. Figure 6 (above) shows the utility created by the additional \$5 million that he acquired each year. We would expect, however, that his *total* utility (based just on this increasing wealth) to be increasing each year. This is illustrated in figure 7. But, as this this figure shows, marginal utility---that is, the additional amount of utility created by each additional \$5 million---is getting smaller each year.
 
 
-![figure](0_intro_img/utility-2.png){width="95%"}
-<div class="caption2"><div align="left">
-<strong>Figure 7</strong></div></div>
+![figure](0_intro_img/utility-2b.png){width="65%"}
+<div class="caption"><div align="left">
+<strong>Figure 7</strong>&ensp; Bill Gates' total utility is increasing, but each additional $5 million creates a smaller increase than the one before it.</div></div>
 
 
 The tendency for marginal utility to decrease as a person gets more and more of a good is called the **law of diminishing marginal utility**. As a person receives more of a good, the additional (or marginal) utility from each additional unit of the good declines. The first slice of pizza brings more satisfaction than the sixth; the first \$5 million brings more satisfaction than the twelfth; and so forth.
@@ -90,7 +93,7 @@ In the Bill Gates example, if we stretch it out many more years, we might expect
 
 ## Opportunity cost
 
-The **opportunity cost** of a decision is the value of next best alternative. In other words, it is the value of what we give up when we make a choice. For example, maybe you went to the gym this morning. (And if you didn't, let's imagine that you did.) If you hadn't gone to the gym, what would you have been doing? Perhaps sleeping or studying or hanging out with friends. The opportunity cost of going to the gym is the best one (or most valuable one) of these other options. (But only the best one, not all of them.) 
+The **opportunity cost** of a decision is the value of next best alternative. In other words, it is the value of what we give up when we make a choice. For example, maybe you went to the gym this morning. (And if you didn't, let's imagine that you did.) If you hadn't gone to the gym, what would you have been doing? Perhaps sleeping or studying or hanging out with friends. The opportunity cost of going to the gym is the best (or most valuable) of these other options. (But only the best one, not all of them.) 
 
 Let's say that your second most preferred option would have spending an hour at a local coffee shop doing homework. So, the cost of going to the gym (i.e., the opportunity cost) is this hour spent at the coffee shop. Every choice, by definition, involves at least two options, and so every choice that we make has an opportunity cost.
 

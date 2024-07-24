@@ -10,15 +10,16 @@ Choices involve trade-offs, and every choice has a cost. The English economist L
     The time at our disposal is limited. There are only twenty-four hours in the day. We have to choose between the different uses to which they may be put. \... Everywhere we turn, if we choose one thing we must relinquish others which, in different circumstances, we would wish not to have relinquished. Scarcity of means to satisfy given ends is an almost ubiquitous condition of human nature.
 
 
-Because people live in a world of scarcity, they cannot have all the time, money, possessions, and experiences they wish.
+Because people live in a world of scarcity, they cannot have all the time, money, possessions, and experiences that they wish that they could.
 
-This section will continue our discussion of scarcity and the economic way of thinking by first introducing the budget constraint and then revisiting a concept, introduced in the previous section: *opportunity costs*.
+This section will continue our examination of scarcity and the economic way of thinking by first introducing the budget constraint and then revisiting a concept, introduced in the previous section: *opportunity costs*.
+
 
 ## Choices among two goods
 
-As you will see in this section and in the sections on the production possibilities frontier, we treat economic agents---in these cases, individuals and countries---as if all of their decisions about which goods to consume (or to produce and consume) involved only two goods. In some cases this is realistic, but in many cases it is not. Individuals, and even more so societies, choose goods in many different combinations, and usually the choices are not between just two options. 
+As you will see in this section and in the sections on the [production possibilities frontier](/macro/pt1a/ppf/) (and [here](/macro/pt1a/trade/)), we treat economic agents---in these cases, individuals and countries---as if all of their decisions about which goods to consume (or to produce and consume) involved only two goods. In some cases this is realistic, but in many cases it is not. Individuals, and even more so societies, often make choices between more than just two options at a time. 
 
-Focusing on just two goods, however, lets us create the standard two-dimensional graphs to illustrate and investigate the budget constraint and the production possibilities frontier. But don't worry. These concepts can be applied to real world situations that involve more than just two goods at a time. If you like, you can ponder how a budget constraint or a production possibilities frontier for three goods would appear on a three-dimensional graph. If we wanted to investigated how trade-offs are made for more than three goods, then we would have to give up graphing and carry out our analysis using math or a computer program. 
+Focusing on just two goods, however, lets us create the standard two-dimensional graphs to illustrate and investigate the budget constraint and the production possibilities frontier. But don't worry. These concepts can be applied to real world situations that involve more than just two goods. If you like, you can ponder how a budget constraint or a production possibilities frontier for three goods would appear on a three-dimensional graph. If we wanted to investigated how trade-offs are made for more than three goods, then we would have to give up graphing and carry out our analysis using math or a computer program. 
 
 
 ## The budget constraint
@@ -90,13 +91,16 @@ Consider the typical consumer's budget problem. Let's say that Sam has a weekly 
 <td>$100</td>
 </tr>
 </tbody>
-<caption>Table 1</caption>
 </table>
+<div class="caption2"><div align="left">
+<strong>Table 1</strong>&ensp;
+</div></div>
+
 
 And we can graph these different opportunities as is shown in figure 1.
 
 
-![image](1_choice_img/bc-1.png){width="80%"}
+![image](1_choice_img/bc-1.png){width="60%"}
 <div class="caption2"><div align="left">
 <strong>Figure 1</strong></div></div>
 
@@ -121,7 +125,7 @@ Recall the definition of **opportunity cost**: a decision's opportunity cost is 
 
 When Sam buys a pizza, he is giving up the chance to have some number of burritos, and likewise, when he buys a burrito, he is giving up the chance to have some number of pizzas (or, in this case, some portion of a pizza). Hence, each choice that he makes has an opportunity cost. These opportunity costs are easy to find by looking at the graph in figure 2.
 
-![figure](1_choice_img/bc-1b.png){width="80%"}
+![figure](1_choice_img/bc-1b.png){width="60%"}
 <div class="caption2"><div align="left">
 <strong>Figure 2</strong></div></div>
 

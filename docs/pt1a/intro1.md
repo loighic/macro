@@ -2,7 +2,7 @@
 title: Intro to Some Economic Concepts
 ---
 
-This section and the next one cover important economic concepts and tools (the latter being models and graphing). This will, in a general way, introduce you to what economics is and how we pursue its study.  
+This section and the next one cover important economic concepts and tools (the latter being models and graphing). This will, in part, introduce you to what economics is and how we pursue its study.  
 
 
 ## What is economics?
@@ -67,13 +67,13 @@ In actuality, there are many different markets for goods and services, and marke
 
 Graphing is super-duper important in economics, and it doesn't ever go away. When you are making graphs yourself, it helps to make them large, to use multiple colors, and, if a graph will be seen by others, to make a draft and then a neater, final version.
 
-Most of the graphs that you will encounter in this course will be line graphs, which represent the relationship between two variables, which are called the *independent* and the *dependent variables*.
+Most of the graphs that you will encounter in this course will be line graphs, which represent the relationship between two variables: the *independent variable* and the *dependent variable*.
 
 !!! note ""
 
-    **the independent variable:** the value of this variable is not dependent on the value of the other values being studied. Usually, this variable is on the horizontal axis of the graph, although not always in economics.
+    **the independent variable:** The value of this variable is not dependent on the value of the other values being studied. Usually, this variable is on the horizontal axis of the graph, although not always in economics.
     
-    **the dependent variable**: the value of this variable *depends on* the value of the independent variable. Usually, this variable is on the vertical axis, although, again, not always in economics.
+    **the dependent variable**: The value of this variable *depends on* the value of the independent variable. Usually, this variable is on the vertical axis, although, again, not always in economics.
 
 The relationship between the two variables can be positive, negative, or complex.
 
@@ -152,7 +152,7 @@ The independent variable is *per capital GDP*, and as we can see, as the value o
 
 
 
-Now, let's look at a graph from the [Federal Reserve Economic Data](https://fred.stlouisfed.org/) (or FRED) website. We will use this site throughout the course, and so you should familiarize yourself with it. If you go to the site, you can find the graph in figure 5 by putting "gdp" in the search field, and then selecting "Gross Domestic Product."
+Now, let's look at a graph from the [Federal Reserve Economic Data](https://fred.stlouisfed.org/) (FRED) website. We will use this site throughout the course, and so you should familiarize yourself with it. If you go to the site, you can find the graph in figure 5 by putting "gdp" in the search field, and then selecting "Gross Domestic Product."
 
 
 <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1dAWV&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
@@ -161,7 +161,7 @@ Now, let's look at a graph from the [Federal Reserve Economic Data](https://fred
 
 
 Figure 5 is a graph of **nominal GDP**. The years from 1947 to the present are on the horizontal axis. 
-The vertical axis is given in billions of dollars. This means that 1 (which isn't show on the axis) is \$1 billion. 4,000, the first value on the axis, is \$4,000 billion or \$4,000,000,000,000, which is \$4 trillion. The last reported figure, therefore, will be some number over \$27,000,000,000,000 (depending on when you are looking at this). 
+The vertical axis is given in billions of dollars. This means that 1 (which isn't labeled on the axis) is \$1 billion. 4,000, the first value on the axis, is \$4,000 billion or \$4,000,000,000,000, which is \$4 trillion. The last reported figure, therefore, will be some number over \$28,000,000,000,000 (depending on when you are looking at this). 
 
 Looking at numbers in billions of dollars is probably unfamiliar to you, but try to remember that the GDP of the United States---the highest GDP in the world---is not \$27,000 or \$28,000 or \$29,000. It's \$27 or \$28 or \$29 trillion (again, depending on when you are looking at this).
 
