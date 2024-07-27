@@ -5,8 +5,9 @@ hide:
 
 # A Short Online Principles of Macroeconomics
 
+![image](astronaut_working.jpeg){width="25%"; align=right}
 
-This online textbook has three parts. Part 1 covers some introductory concepts, the production possibilities frontier, comparative advantage, trade, and then supply and demand. In part 2, we look at gross domestic product, unemployment, and inflation. And in part 3, we examine the aggregate demand - aggregate supply model, fiscal policy, money, and monetary policy. 
+This online textbook has three parts. **Part 1** covers some introductory concepts, the production possibilities frontier, comparative advantage, trade, and then supply and demand. In **part 2**, we look at gross domestic product, unemployment, and inflation. And in **part 3**, we examine the aggregate demand-aggregate supply model, fiscal policy, money, and monetary policy. 
 
 ---
 
