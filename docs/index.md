@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-# A Short Online Principles of Macroeconomics
+# Principles of Macroeconomics: MSUMe
 
 ![image](astronaut_working.jpeg){width="25%"; align=right}
 
