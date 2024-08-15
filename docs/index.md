@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-# Principles of Macroeconomics: MSUMe
+# Principles of Macroeconomics: MSUM*e*
 
 ![image](astronaut_working.jpeg){width="25%"; align=right}
 
