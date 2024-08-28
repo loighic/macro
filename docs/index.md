@@ -7,7 +7,7 @@ hide:
 
 ![image](astronaut_working.jpeg){width="25%"; align=right}
 
-This online textbook has three parts. After introducing some economic concepts, **part 1** covers the production possibilities frontier, comparative advantage, trade, and then supply and demand. **Part 2**, covers gross domestic product, unemployment, and inflation. And in **part 3**, we examine the aggregate demand-aggregate supply model, fiscal policy, money, and monetary policy. 
+This online textbook has three parts. After introducing some economic concepts, **part 1** covers the production possibilities frontier, comparative advantage, trade, and then supply and demand. **Part 2** covers gross domestic product, unemployment, and inflation. And in **part 3**, we examine the aggregate demand-aggregate supply model, fiscal policy, money, and monetary policy. 
 
 ---
 
