@@ -2,11 +2,7 @@
 title: International trade
 ---
 
-The first wave of globalization started in the nineteenth century and
-lasted up to the beginning of World War I. Over that time, global
-exports as a share of global gross domestic product (GDP) rose from less
-than 1% of GDP in 1820 to 9% of GDP in 1913. As the Nobel Prize-winning
-economist Paul Krugman of Princeton University wrote in 1995:
+The first wave of globalization started in the nineteenth century and lasted up to the beginning of World War I. Over that time, global exports as a share of global gross domestic product (GDP) rose from less than 1% of GDP in 1820 to 9% of GDP in 1913. As the Nobel Prize-winning economist Paul Krugman of Princeton University wrote in 1995:
 
 !!! note ""
 
